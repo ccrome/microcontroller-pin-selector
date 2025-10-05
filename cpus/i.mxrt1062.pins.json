@@ -1,0 +1,5956 @@
+{
+  "ACMP1": {
+    "ACMP1_IN0": [
+      [
+        "GPIO_AD_B1_01",
+        "-"
+      ]
+    ],
+    "ACMP1_IN1": [
+      [
+        "GPIO_AD_B1_06",
+        "-"
+      ]
+    ],
+    "ACMP1_IN2": [
+      [
+        "GPIO_AD_B0_13",
+        "-"
+      ]
+    ],
+    "ACMP1_IN3": [
+      [
+        "GPIO_AD_B1_02",
+        "-"
+      ]
+    ],
+    "ACMP1_IN4": [
+      [
+        "GPIO_AD_B0_00",
+        "-"
+      ]
+    ],
+    "ACMP1_IN5": [
+      [
+        "GPIO_AD_B1_07",
+        "-"
+      ]
+    ],
+    "ACMP1_IN6": [
+      [
+        "GPIO_AD_B1_11",
+        "-"
+      ]
+    ],
+    "ACMP1_OUT": [
+      [
+        "GPIO_AD_B1_12",
+        "-"
+      ]
+    ]
+  },
+  "ACMP2": {
+    "ACMP2_IN0": [
+      [
+        "GPIO_AD_B1_01",
+        "-"
+      ]
+    ],
+    "ACMP2_IN1": [
+      [
+        "GPIO_AD_B1_06",
+        "-"
+      ]
+    ],
+    "ACMP2_IN2": [
+      [
+        "GPIO_AD_B0_14",
+        "-"
+      ]
+    ],
+    "ACMP2_IN3": [
+      [
+        "GPIO_AD_B1_03",
+        "-"
+      ]
+    ],
+    "ACMP2_IN4": [
+      [
+        "GPIO_AD_B0_01",
+        "-"
+      ]
+    ],
+    "ACMP2_IN5": [
+      [
+        "GPIO_AD_B1_08",
+        "-"
+      ]
+    ],
+    "ACMP2_IN6": [
+      [
+        "GPIO_AD_B1_12",
+        "-"
+      ]
+    ],
+    "ACMP2_OUT": [
+      [
+        "GPIO_AD_B1_13",
+        "-"
+      ]
+    ]
+  },
+  "ACMP3": {
+    "ACMP3_IN0": [
+      [
+        "GPIO_AD_B1_01",
+        "-"
+      ]
+    ],
+    "ACMP3_IN1": [
+      [
+        "GPIO_AD_B1_06",
+        "-"
+      ]
+    ],
+    "ACMP3_IN2": [
+      [
+        "GPIO_AD_B0_15",
+        "-"
+      ]
+    ],
+    "ACMP3_IN3": [
+      [
+        "GPIO_AD_B1_04",
+        "-"
+      ]
+    ],
+    "ACMP3_IN4": [
+      [
+        "GPIO_AD_B0_02",
+        "-"
+      ]
+    ],
+    "ACMP3_IN5": [
+      [
+        "GPIO_AD_B1_09",
+        "-"
+      ]
+    ],
+    "ACMP3_IN6": [
+      [
+        "GPIO_AD_B1_13",
+        "-"
+      ]
+    ],
+    "ACMP3_OUT": [
+      [
+        "GPIO_AD_B1_14",
+        "-"
+      ]
+    ]
+  },
+  "ACMP4": {
+    "ACMP4_IN0": [
+      [
+        "GPIO_AD_B1_01",
+        "-"
+      ]
+    ],
+    "ACMP4_IN1": [
+      [
+        "GPIO_AD_B1_06",
+        "-"
+      ]
+    ],
+    "ACMP4_IN2": [
+      [
+        "GPIO_AD_B1_00",
+        "-"
+      ]
+    ],
+    "ACMP4_IN3": [
+      [
+        "GPIO_AD_B1_05",
+        "-"
+      ]
+    ],
+    "ACMP4_IN4": [
+      [
+        "GPIO_AD_B0_03",
+        "-"
+      ]
+    ],
+    "ACMP4_IN5": [
+      [
+        "GPIO_AD_B1_10",
+        "-"
+      ]
+    ],
+    "ACMP4_IN6": [
+      [
+        "GPIO_AD_B1_14",
+        "-"
+      ]
+    ],
+    "ACMP4_OUT": [
+      [
+        "GPIO_AD_B1_15",
+        "-"
+      ]
+    ]
+  },
+  "ADC1": {
+    "ADC1_IN0": [
+      [
+        "GPIO_AD_B1_11",
+        "-"
+      ]
+    ],
+    "ADC1_IN1": [
+      [
+        "GPIO_AD_B0_12",
+        "-"
+      ]
+    ],
+    "ADC1_IN2": [
+      [
+        "GPIO_AD_B0_13",
+        "-"
+      ]
+    ],
+    "ADC1_IN3": [
+      [
+        "GPIO_AD_B0_14",
+        "-"
+      ]
+    ],
+    "ADC1_IN4": [
+      [
+        "GPIO_AD_B0_15",
+        "-"
+      ]
+    ],
+    "ADC1_IN5": [
+      [
+        "GPIO_AD_B1_00",
+        "-"
+      ]
+    ],
+    "ADC1_IN6": [
+      [
+        "GPIO_AD_B1_01",
+        "-"
+      ]
+    ],
+    "ADC1_IN7": [
+      [
+        "GPIO_AD_B1_02",
+        "-"
+      ]
+    ],
+    "ADC1_IN8": [
+      [
+        "GPIO_AD_B1_03",
+        "-"
+      ]
+    ],
+    "ADC1_IN9": [
+      [
+        "GPIO_AD_B1_04",
+        "-"
+      ]
+    ],
+    "ADC1_IN10": [
+      [
+        "GPIO_AD_B1_05",
+        "-"
+      ]
+    ],
+    "ADC1_IN11": [
+      [
+        "GPIO_AD_B1_06",
+        "-"
+      ]
+    ],
+    "ADC1_IN12": [
+      [
+        "GPIO_AD_B1_07",
+        "-"
+      ]
+    ],
+    "ADC1_IN13": [
+      [
+        "GPIO_AD_B1_08",
+        "-"
+      ]
+    ],
+    "ADC1_IN14": [
+      [
+        "GPIO_AD_B1_09",
+        "-"
+      ]
+    ],
+    "ADC1_IN15": [
+      [
+        "GPIO_AD_B1_10",
+        "-"
+      ]
+    ]
+  },
+  "ADC2": {
+    "ADC2_IN0": [
+      [
+        "GPIO_AD_B1_11",
+        "-"
+      ]
+    ],
+    "ADC2_IN1": [
+      [
+        "GPIO_AD_B1_12",
+        "-"
+      ]
+    ],
+    "ADC2_IN2": [
+      [
+        "GPIO_AD_B1_13",
+        "-"
+      ]
+    ],
+    "ADC2_IN3": [
+      [
+        "GPIO_AD_B1_14",
+        "-"
+      ]
+    ],
+    "ADC2_IN4": [
+      [
+        "GPIO_AD_B1_15",
+        "-"
+      ]
+    ],
+    "ADC2_IN5": [
+      [
+        "GPIO_AD_B1_00",
+        "-"
+      ]
+    ],
+    "ADC2_IN6": [
+      [
+        "GPIO_AD_B1_01",
+        "-"
+      ]
+    ],
+    "ADC2_IN7": [
+      [
+        "GPIO_AD_B1_02",
+        "-"
+      ]
+    ],
+    "ADC2_IN8": [
+      [
+        "GPIO_AD_B1_03",
+        "-"
+      ]
+    ],
+    "ADC2_IN9": [
+      [
+        "GPIO_AD_B1_04",
+        "-"
+      ]
+    ],
+    "ADC2_IN10": [
+      [
+        "GPIO_AD_B1_05",
+        "-"
+      ]
+    ],
+    "ADC2_IN11": [
+      [
+        "GPIO_AD_B1_06",
+        "-"
+      ]
+    ],
+    "ADC2_IN12": [
+      [
+        "GPIO_AD_B1_07",
+        "-"
+      ]
+    ],
+    "ADC2_IN13": [
+      [
+        "GPIO_AD_B1_08",
+        "-"
+      ]
+    ],
+    "ADC2_IN14": [
+      [
+        "GPIO_AD_B1_09",
+        "-"
+      ]
+    ],
+    "ADC2_IN15": [
+      [
+        "GPIO_AD_B1_10",
+        "-"
+      ]
+    ]
+  },
+  "ARM PLATFORM": {
+    "ARM_EVENT0": [
+      [
+        "GPIO_BO_14",
+        "ALT2"
+      ]
+    ],
+    "ARM_EVENT1": [
+      [
+        "GPIO_B0_15",
+        "ALT2"
+      ]
+    ]
+  },
+  "CCM": {
+    "CCM_PMIC_STBY_REQ": [
+      [
+        "PMIC_STBY_REQ",
+        "ALT0"
+      ]
+    ],
+    "CCM_PMIC_READY": [
+      [
+        "GPIO_AD_B0_12",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_32",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_08",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_01",
+        "ALT4"
+      ],
+      [
+        "GPIO_SD_B1_03",
+        "ALT6"
+      ]
+    ],
+    "CCM_CLKO1": [
+      [
+        "GPIO_SD_B0_04",
+        "ALT6"
+      ]
+    ],
+    "CCM_CLKO2": [
+      [
+        "GPIO_SD_B0_05",
+        "ALT6"
+      ]
+    ],
+    "CCM_WAIT": [
+      [
+        "GPIO_SD_B1_02",
+        "ALT6"
+      ]
+    ],
+    "CCM_STOP": [
+      [
+        "GPIO_SD_B1_04",
+        "ALT6"
+      ]
+    ],
+    "CCM_CLK1_P": [
+      [
+        "CCM_CLK1_P",
+        "No Muxing"
+      ]
+    ],
+    "CCM_CLK1_N": [
+      [
+        "CCM_CLK1_N",
+        "No Muxing"
+      ]
+    ]
+  },
+  "CSI": {
+    "CSI_DATA00": [
+      [
+        "GPIO_B1_10",
+        "ALT2"
+      ]
+    ],
+    "CSI_DATA01": [
+      [
+        "GPIO_B1_11",
+        "ALT2"
+      ]
+    ],
+    "CSI_DATA02": [
+      [
+        "GPIO_AD_B1_15",
+        "ALT4"
+      ],
+      [
+        "GPIO_AD_B0_11",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA03": [
+      [
+        "GPIO_AD_B1_14",
+        "ALT4"
+      ],
+      [
+        "GPIO_AD_B0_10",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA04": [
+      [
+        "GPIO_AD_B1_13",
+        "ALT4"
+      ],
+      [
+        "GPIO_AD_B0_09",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA05": [
+      [
+        "GPIO_AD_B1_12",
+        "ALT4"
+      ],
+      [
+        "GPIO_AD_B0_08",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA06": [
+      [
+        "GPIO_AD_B1_11",
+        "ALT4"
+      ],
+      [
+        "GPIO_AD_B0_07",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA07": [
+      [
+        "GPIO_AD_B1_10",
+        "ALT4"
+      ],
+      [
+        "GPIO_AD_B0_06",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA08": [
+      [
+        "GPIO_AD_B1_09",
+        "ALT4"
+      ],
+      [
+        "GPIO_AD_B0_05",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA09": [
+      [
+        "GPIO_AD_B1_08",
+        "ALT4"
+      ],
+      [
+        "GPIO_AD_B0_04",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA10": [
+      [
+        "GPIO_B1_09",
+        "ALT2"
+      ]
+    ],
+    "CSI_DATA11": [
+      [
+        "GPIO_B1_08",
+        "ALT2"
+      ]
+    ],
+    "CSI_DATA12": [
+      [
+        "GPIO_B1_07",
+        "ALT2"
+      ]
+    ],
+    "CSI_DATA13": [
+      [
+        "GPIO_B1_06",
+        "ALT2"
+      ]
+    ],
+    "CSI_DATA14": [
+      [
+        "GPIO_B1_05",
+        "ALT2"
+      ]
+    ],
+    "CSI_DATA15": [
+      [
+        "GPIO_B1_04",
+        "ALT2"
+      ]
+    ],
+    "CSI_DATA16": [
+      [
+        "GPIO_EMC_37",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA17": [
+      [
+        "GPIO_EMC_36",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA18": [
+      [
+        "GPIO_EMC_35",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA19": [
+      [
+        "GPIO_EMC_34",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA20": [
+      [
+        "GPIO_EMC_33",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA21": [
+      [
+        "GPIO_EMC_32",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA22": [
+      [
+        "GPIO_EMC_31",
+        "ALT4"
+      ]
+    ],
+    "CSI_DATA23": [
+      [
+        "GPIO_EMC_30",
+        "ALT4"
+      ]
+    ],
+    "CSI_PIXCLK": [
+      [
+        "GPIO_B1_12",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B1_04",
+        "ALT4"
+      ]
+    ],
+    "CSI_VSYNC": [
+      [
+        "GPIO_B1_13",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B1_06",
+        "ALT4"
+      ],
+      [
+        "GPIO_AD_B0_14",
+        "ALT4"
+      ]
+    ],
+    "CSI_HSYNC": [
+      [
+        "GPIO_B1_14",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B1_07",
+        "ALT4"
+      ],
+      [
+        "GPIO_AD_B0_15",
+        "ALT4"
+      ]
+    ],
+    "CSI_MCLK": [
+      [
+        "GPIO_B1_15",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B1_05",
+        "ALT4"
+      ]
+    ],
+    "CSI_FIELD": [
+      [
+        "GPIO_EMC_38",
+        "ALT4"
+      ]
+    ]
+  },
+  "ENET": {
+    "ENET_MDC": [
+      [
+        "GPIO_B1_14",
+        "ALT0"
+      ],
+      [
+        "GPIO_AD_B1_04",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_40",
+        "ALT4"
+      ]
+    ],
+    "ENET_MDIO": [
+      [
+        "GPIO_B1_15",
+        "ALT0"
+      ],
+      [
+        "GPIO_AD_B1_05",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_41",
+        "ALT4"
+      ]
+    ],
+    "ENET_TX_DATA0": [
+      [
+        "GPIO_EMC_22",
+        "ALT3"
+      ],
+      [
+        "GPIO_B1_07",
+        "ALT3"
+      ]
+    ],
+    "ENET_TX_DATA1": [
+      [
+        "GPIO_EMC_21",
+        "ALT3"
+      ],
+      [
+        "GPIO_B1_08",
+        "ALT3"
+      ]
+    ],
+    "ENET_TX_DATA2": [
+      [
+        "GPIO_AD_B0_05",
+        "ALT2"
+      ]
+    ],
+    "ENET_TX_DATA3": [
+      [
+        "GPIO_AD_B0_04",
+        "ALT2"
+      ]
+    ],
+    "ENET_TX_ER": [
+      [
+        "GPIO_AD_B0_07",
+        "ALT2"
+      ]
+    ],
+    "ENET_TX_EN": [
+      [
+        "GPIO_EMC_24",
+        "ALT3"
+      ],
+      [
+        "GPIO_B1_09",
+        "ALT3"
+      ]
+    ],
+    "ENET_TX_CLK": [
+      [
+        "GPIO_B1_10",
+        "ALT3"
+      ],
+      [
+        "GPIO_EMC_25",
+        "ALT3"
+      ]
+    ],
+    "ENET_RX_DATA0": [
+      [
+        "GPIO_B1_04",
+        "ALT3"
+      ],
+      [
+        "GPIO_EMC_20",
+        "ALT3"
+      ]
+    ],
+    "ENET_RX_DATA1": [
+      [
+        "GPIO_B1_05",
+        "ALT3"
+      ],
+      [
+        "GPIO_EMC_19",
+        "ALT3"
+      ]
+    ],
+    "ENET_RX_DATA2": [
+      [
+        "GPIO_AD_B0_09",
+        "ALT2"
+      ]
+    ],
+    "ENET_RX_DATA3": [
+      [
+        "GPIO_AD_B0_08",
+        "ALT2"
+      ]
+    ],
+    "ENET_RX_ER": [
+      [
+        "GPIO_B1_11",
+        "ALT3"
+      ],
+      [
+        "GPIO_EMC_26",
+        "ALT3"
+      ]
+    ],
+    "ENET_RX_EN": [
+      [
+        "GPIO_B1_06",
+        "ALT3"
+      ],
+      [
+        "GPIO_EMC_23",
+        "ALT3"
+      ]
+    ],
+    "ENET_RX_CLK": [
+      [
+        "GPIO_AD_B0_06",
+        "ALT2"
+      ]
+    ],
+    "ENET_CRS": [
+      [
+        "GPIO_AD_B0_10",
+        "ALT2"
+      ]
+    ],
+    "ENET_COL": [
+      [
+        "GPIO_AD_B0_11",
+        "ALT2"
+      ]
+    ],
+    "ENET_REF_CLK": [
+      [
+        "GPIO_EMC_25",
+        "ALT4"
+      ],
+      [
+        "GPIO_B1_10",
+        "ALT6"
+      ]
+    ],
+    "ENET_1588_EVENT0_OUT": [
+      [
+        "GPIO_AD_B0_14",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B0_10",
+        "ALT7"
+      ],
+      [
+        "GPIO_B1_13",
+        "ALT3"
+      ]
+    ],
+    "ENET_1588_EVENT0_IN": [
+      [
+        "GPIO_AD_B0_15",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B0_11",
+        "ALT7"
+      ],
+      [
+        "GPIO_B1_12",
+        "ALT3"
+      ]
+    ],
+    "ENET_1588_EVENT1_OUT": [
+      [
+        "GPIO_AD_B0_12",
+        "ALT6"
+      ]
+    ],
+    "ENET_1588_EVENT1_IN": [
+      [
+        "GPIO_AD_B0_13",
+        "ALT6"
+      ]
+    ],
+    "ENET_1588_EVENT2_OUT": [
+      [
+        "GPIO_AD_B1_02",
+        "ALT4"
+      ]
+    ],
+    "ENET_1588_EVENT2_IN": [
+      [
+        "GPIO_AD_B1_03",
+        "ALT4"
+      ]
+    ],
+    "ENET_1588_EVENT3_OUT": [
+      [
+        "GPIO_AD_B0_07",
+        "ALT7"
+      ]
+    ],
+    "ENET_1588_EVENT3_IN": [
+      [
+        "GPIO_AD_B0_08",
+        "ALT7"
+      ]
+    ]
+  },
+  "ENET2": {
+    "ENET2_MDC": [
+      [
+        "GPIO_EMC_38",
+        "ALT8"
+      ],
+      [
+        "GPIO_B0_00",
+        "ALT8"
+      ]
+    ],
+    "ENET2_MDIO": [
+      [
+        "GPIO_EMC_39",
+        "ALT8"
+      ],
+      [
+        "GPIO_B0_01",
+        "ALT8"
+      ]
+    ],
+    "ENET2_TDATA0": [
+      [
+        "GPIO_EMC_30",
+        "ALT8"
+      ],
+      [
+        "GPIO_B0_12",
+        "ALT8"
+      ],
+      [
+        "GPIO_B1_14",
+        "ALT8"
+      ]
+    ],
+    "ENET2_TDATA1": [
+      [
+        "GPIO_EMC_31",
+        "ALT8"
+      ],
+      [
+        "GPIO_B0_13",
+        "ALT8"
+      ],
+      [
+        "GPIO_B1_15",
+        "ALT8"
+      ]
+    ],
+    "ENET2_TDATA2": [
+      [
+        "GPIO_B0_05",
+        "ALT8"
+      ]
+    ],
+    "ENET2_TDATA3": [
+      [
+        "GPIO_B0_04",
+        "ALT8"
+      ]
+    ],
+    "ENET2_TX_CLK": [
+      [
+        "GPIO_EMC_33",
+        "ALT8"
+      ],
+      [
+        "GPIO_B0_15",
+        "ALT8"
+      ],
+      [
+        "GPIO_SD_B0_01",
+        "ALT8"
+      ]
+    ],
+    "ENET2_TX_EN": [
+      [
+        "GPIO_EMC_32",
+        "ALT8"
+      ],
+      [
+        "GPIO_B0_14",
+        "ALT8"
+      ],
+      [
+        "GPIO_SD_B0_00",
+        "ALT8"
+      ]
+    ],
+    "ENET2_TX_ER": [
+      [
+        "GPIO_B0_07",
+        "ALT8"
+      ]
+    ],
+    "ENET2_RDATA0": [
+      [
+        "GPIO_EMC_35",
+        "ALT8"
+      ],
+      [
+        "GPIO_B1_01",
+        "ALT8"
+      ],
+      [
+        "GPIO_SD_B0_03",
+        "ALT8"
+      ]
+    ],
+    "ENET2_RDATA1": [
+      [
+        "GPIO_EMC_36",
+        "ALT8"
+      ],
+      [
+        "GPIO_B1_02",
+        "ALT8"
+      ],
+      [
+        "GPIO_SD_B0_04",
+        "ALT8"
+      ]
+    ],
+    "ENET2_RDATA2": [
+      [
+        "GPIO_B0_09",
+        "ALT8"
+      ]
+    ],
+    "ENET2_RDATA3": [
+      [
+        "GPIO_B0_08",
+        "ALT8"
+      ]
+    ],
+    "ENET2_RX_CLK": [
+      [
+        "GPIO_B0_06",
+        "ALT8"
+      ]
+    ],
+    "ENET2_RX_EN": [
+      [
+        "GPIO_EMC_37",
+        "ALT8"
+      ],
+      [
+        "GPIO_B1_03",
+        "ALT8"
+      ],
+      [
+        "GPIO_SD_B0_05",
+        "ALT8"
+      ]
+    ],
+    "ENET2_RX_ER": [
+      [
+        "GPIO_EMC_34",
+        "ALT8"
+      ],
+      [
+        "GPIO_B1_00",
+        "ALT8"
+      ],
+      [
+        "GPIO_SD_B0_02",
+        "ALT8"
+      ]
+    ],
+    "ENET2_REF_CLK2": [
+      [
+        "GPIO_EMC_33",
+        "ALT9"
+      ],
+      [
+        "GPIO_B0_15",
+        "ALT9"
+      ],
+      [
+        "GPIO_SD_B0_01",
+        "ALT9"
+      ]
+    ],
+    "ENET2_1588_EVENT0_IN": [
+      [
+        "GPIO_AD_B1_01",
+        "ALT8"
+      ],
+      [
+        "GPIO_B0_03",
+        "ALT8"
+      ]
+    ],
+    "ENET2_COL": [
+      [
+        "GPIO_B0_11",
+        "ALT8"
+      ]
+    ],
+    "ENET2_CRS": [
+      [
+        "GPIO_B0_10",
+        "ALT8"
+      ]
+    ],
+    "ENET2_1588_EVENT1_IN": [
+      [
+        "GPIO_AD_B1_11",
+        "ALT8"
+      ]
+    ],
+    "ENET2_1588_EVENT2_IN": [
+      [
+        "GPIO_AD_B1_13",
+        "ALT8"
+      ]
+    ],
+    "ENET2_1588_EVENT3_IN": [
+      [
+        "GPIO_AD_B1_15",
+        "ALT8"
+      ]
+    ],
+    "ENET2_1588_EVENT0_OUT": [
+      [
+        "GPIO_AD_B1_00",
+        "ALT8"
+      ],
+      [
+        "GPIO_B0_02",
+        "ALT8"
+      ]
+    ],
+    "ENET2_1588_EVENT1_OUT": [
+      [
+        "GPIO_AD_B1_10",
+        "ALT8"
+      ]
+    ],
+    "ENET2_1588_EVENT2_OUT": [
+      [
+        "GPIO_AD_B1_12",
+        "ALT8"
+      ]
+    ],
+    "ENET2_1588_EVENT3_OUT": [
+      [
+        "GPIO_AD_B1_14",
+        "ALT8"
+      ]
+    ]
+  },
+  "EWM": {
+    "EWM_OUT_B": [
+      [
+        "GPIO_AD_B0_01",
+        "ALT6"
+      ],
+      [
+        "GPIO_AD_B0_13",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_11",
+        "ALT1"
+      ]
+    ]
+  },
+  "FLEXCAN1": {
+    "FLEXCAN1_TX": [
+      [
+        "GPIO_AD_B1_08",
+        "ALT2"
+      ],
+      [
+        "GPIO_B0_02",
+        "ALT2"
+      ],
+      [
+        "GPIO_EMC_17",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_02",
+        "ALT4"
+      ]
+    ],
+    "FLEXCAN1_RX": [
+      [
+        "GPIO_AD_B1_09",
+        "ALT2"
+      ],
+      [
+        "GPIO_B0_03",
+        "ALT2"
+      ],
+      [
+        "GPIO_EMC_18",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_03",
+        "ALT4"
+      ]
+    ]
+  },
+  "FLEXCAN2": {
+    "FLEXCAN2_TX": [
+      [
+        "GPIO_AD_B0_02",
+        "ALT0"
+      ],
+      [
+        "GPIO_EMC_09",
+        "ALT3"
+      ],
+      [
+        "GPIO_B1_08",
+        "ALT6"
+      ],
+      [
+        "GPIO_AD_B0_14",
+        "ALT6"
+      ]
+    ],
+    "FLEXCAN2_RX": [
+      [
+        "GPIO_AD_B0_03",
+        "ALT0"
+      ],
+      [
+        "GPIO_EMC_10",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B0_15",
+        "ALT6"
+      ],
+      [
+        "GPIO_B1_09",
+        "ALT6"
+      ]
+    ]
+  },
+  "FLEXCAN3": {
+    "FLEXCAN3_RX": [
+      [
+        "GPIO_AD_B0_11",
+        "ALT8"
+      ],
+      [
+        "GPIO_AD_B0_15",
+        "ALT8"
+      ],
+      [
+        "GPIO_EMC_37",
+        "ALT9"
+      ]
+    ],
+    "FLEXCAN3_TX": [
+      [
+        "GPIO_AD_B0_10",
+        "ALT8"
+      ],
+      [
+        "GPIO_AD_B0_14",
+        "ALT8"
+      ],
+      [
+        "GPIO_EMC_36",
+        "ALT9"
+      ]
+    ]
+  },
+  "FLEXIO1": {
+    "FLEXIO1_D00": [
+      [
+        "GPIO_EMC_00",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D01": [
+      [
+        "GPIO_EMC_01",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D02": [
+      [
+        "GPIO_EMC_02",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D03": [
+      [
+        "GPIO_EMC_03",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D04": [
+      [
+        "GPIO_EMC_04",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D05": [
+      [
+        "GPIO_EMC_05",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D06": [
+      [
+        "GPIO_EMC_06",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D07": [
+      [
+        "GPIO_EMC_07",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D08": [
+      [
+        "GPIO_EMC_08",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D09": [
+      [
+        "GPIO_EMC_09",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D10": [
+      [
+        "GPIO_EMC_10",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D11": [
+      [
+        "GPIO_EMC_11",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D12": [
+      [
+        "GPIO_EMC_26",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D13": [
+      [
+        "GPIO_EMC_27",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D14": [
+      [
+        "GPIO_EMC_28",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO1_D15": [
+      [
+        "GPIO_EMC_29",
+        "ALT4"
+      ]
+    ]
+  },
+  "FLEXIO2": {
+    "FLEXIO2_D00": [
+      [
+        "GPIO_B0_00",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D01": [
+      [
+        "GPIO_B0_01",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D02": [
+      [
+        "GPIO_B0_02",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D03": [
+      [
+        "GPIO_B0_03",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D04": [
+      [
+        "GPIO_B0_04",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D05": [
+      [
+        "GPIO_B0_05",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D06": [
+      [
+        "GPIO_B0_06",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D07": [
+      [
+        "GPIO_B0_07",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D08": [
+      [
+        "GPIO_B0_08",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D09": [
+      [
+        "GPIO_B0_09",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D10": [
+      [
+        "GPIO_B0_10",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D11": [
+      [
+        "GPIO_B0_11",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D12": [
+      [
+        "GPIO_B0_12",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D13": [
+      [
+        "GPIO_B0_13",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D14": [
+      [
+        "GPIO_B0_14",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D15": [
+      [
+        "GPIO_B0_15",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D16": [
+      [
+        "GPIO_B1_00",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D17": [
+      [
+        "GPIO_B1_01",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D18": [
+      [
+        "GPIO_B1_02",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D19": [
+      [
+        "GPIO_B1_03",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D20": [
+      [
+        "GPIO_B1_04",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D21": [
+      [
+        "GPIO_B1_05",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D22": [
+      [
+        "GPIO_B1_06",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D23": [
+      [
+        "GPIO_B1_07",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D24": [
+      [
+        "GPIO_B1_08",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D25": [
+      [
+        "GPIO_B1_09",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D26": [
+      [
+        "GPIO_B1_10",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D27": [
+      [
+        "GPIO_B1_11",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D28": [
+      [
+        "GPIO_B1_12",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D29": [
+      [
+        "GPIO_B1_13",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D30": [
+      [
+        "GPIO_B1_14",
+        "ALT4"
+      ]
+    ],
+    "FLEXIO2_D31": [
+      [
+        "GPIO_B1_15",
+        "ALT4"
+      ]
+    ]
+  },
+  "FLEXIO3": {
+    "FLEXIO3_D00": [
+      [
+        "GPIO_AD_B1_00",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D01": [
+      [
+        "GPIO_AD_B1_01",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D02": [
+      [
+        "GPIO_AD_B1_02",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D03": [
+      [
+        "GPIO_AD_B1_03",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D04": [
+      [
+        "GPIO_AD_B1_04",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D05": [
+      [
+        "GPIO_AD_B1_05",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D06": [
+      [
+        "GPIO_AD_B1_06",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D07": [
+      [
+        "GPIO_AD_B1_07",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D08": [
+      [
+        "GPIO_AD_B1_08",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D09": [
+      [
+        "GPIO_AD_B1_09",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D10": [
+      [
+        "GPIO_AD_B1_10",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D11": [
+      [
+        "GPIO_AD_B1_11",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D12": [
+      [
+        "GPIO_AD_B1_12",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D13": [
+      [
+        "GPIO_AD_B1_13",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D14": [
+      [
+        "GPIO_AD_B1_14",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D15": [
+      [
+        "GPIO_AD_B1_15",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D16": [
+      [
+        "GPIO_B1_00",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D17": [
+      [
+        "GPIO_B1_01",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D18": [
+      [
+        "GPIO_B1_02",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D19": [
+      [
+        "GPIO_B1_03",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D20": [
+      [
+        "GPIO_B1_04",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D21": [
+      [
+        "GPIO_B1_05",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D22": [
+      [
+        "GPIO_B1_06",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D23": [
+      [
+        "GPIO_B1_07",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D24": [
+      [
+        "GPIO_B1_08",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D25": [
+      [
+        "GPIO_B1_09",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D26": [
+      [
+        "GPIO_B1_10",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D27": [
+      [
+        "GPIO_B1_11",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D28": [
+      [
+        "GPIO_B1_12",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D29": [
+      [
+        "GPIO_B1_13",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D30": [
+      [
+        "GPIO_B1_14",
+        "ALT9"
+      ]
+    ],
+    "FLEXIO3_D31": [
+      [
+        "GPIO_B1_15",
+        "ALT9"
+      ]
+    ]
+  },
+  "FLEXPWM1": {
+    "FLEXPWM1_PWM0_A": [
+      [
+        "GPIO_EMC_23",
+        "ALT1"
+      ],
+      [
+        "GPIO_SD_B0_00",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM1_PWM0_B": [
+      [
+        "GPIO_SD_B0_01",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_24",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM1_PWM1_A": [
+      [
+        "GPIO_EMC_25",
+        "ALT1"
+      ],
+      [
+        "GPIO_SD_B0_02",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM1_PWM1_B": [
+      [
+        "GPIO_EMC_26",
+        "ALT1"
+      ],
+      [
+        "GPIO_SD_B0_03",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM1_PWM2_A": [
+      [
+        "GPIO_SD_B0_04",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_27",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM1_PWM2_B": [
+      [
+        "GPIO_SD_B0_05",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_28",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM1_PWM3_A": [
+      [
+        "GPIO_EMC_38",
+        "ALT1"
+      ],
+      [
+        "GPIO_SD_B1_00",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B0_10",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_12",
+        "ALT4"
+      ],
+      [
+        "GPIO_B1_00",
+        "ALT6"
+      ]
+    ],
+    "FLEXPWM1_PWM3_B": [
+      [
+        "GPIO_EMC_39",
+        "ALT1"
+      ],
+      [
+        "GPIO_B1_01",
+        "ALT6"
+      ],
+      [
+        "GPIO_AD_B0_11",
+        "ALT1"
+      ],
+      [
+        "GPIO_SD_B1_01",
+        "ALT2"
+      ],
+      [
+        "GPIO_EMC_13",
+        "ALT4"
+      ]
+    ],
+    "FLEXPWM1_PWM0_X": [
+      [
+        "GPIO_AD_B0_02",
+        "ALT4"
+      ]
+    ],
+    "FLEXPWM1_PWM1_X": [
+      [
+        "GPIO_AD_B0_03",
+        "ALT4"
+      ]
+    ],
+    "FLEXPWM1_PWM2_X": [
+      [
+        "GPIO_AD_B0_12",
+        "ALT4"
+      ]
+    ],
+    "FLEXPWM1_PWM3_X": [
+      [
+        "GPIO_AD_B0_13",
+        "ALT4"
+      ]
+    ]
+  },
+  "FLEXPWM2": {
+    "FLEXPWM2_PWM0_A": [
+      [
+        "GPIO_B0_06",
+        "ALT2"
+      ],
+      [
+        "GPIO_EMC_06",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM2_PWM0_B": [
+      [
+        "GPIO_B0_07",
+        "ALT2"
+      ],
+      [
+        "GPIO_EMC_07",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM2_PWM1_A": [
+      [
+        "GPIO_EMC_08",
+        "ALT1"
+      ],
+      [
+        "GPIO_B0_08",
+        "ALT2"
+      ]
+    ],
+    "FLEXPWM2_PWM1_B": [
+      [
+        "GPIO_EMC_09",
+        "ALT1"
+      ],
+      [
+        "GPIO_B0_09",
+        "ALT2"
+      ]
+    ],
+    "FLEXPWM2_PWM2_A": [
+      [
+        "GPIO_EMC_10",
+        "ALT1"
+      ],
+      [
+        "GPIO_B0_10",
+        "ALT2"
+      ]
+    ],
+    "FLEXPWM2_PWM2_B": [
+      [
+        "GPIO_EMC_11",
+        "ALT1"
+      ],
+      [
+        "GPIO_B0_11",
+        "ALT2"
+      ]
+    ],
+    "FLEXPWM2_PWM3_A": [
+      [
+        "GPIO_AD_B0_09",
+        "ALT1"
+      ],
+      [
+        "GPIO_SD_B1_02",
+        "ALT2"
+      ],
+      [
+        "GPIO_EMC_19",
+        "ALT1"
+      ],
+      [
+        "GPIO_B1_02",
+        "ALT6"
+      ],
+      [
+        "GPIO_AD_B0_00",
+        "ALT0"
+      ]
+    ],
+    "FLEXPWM2_PWM3_B": [
+      [
+        "GPIO_AD_B0_01",
+        "ALT0"
+      ],
+      [
+        "GPIO_SD_B1_03",
+        "ALT2"
+      ],
+      [
+        "GPIO_B1_03",
+        "ALT6"
+      ],
+      [
+        "GPIO_EMC_20",
+        "ALT1"
+      ]
+    ]
+  },
+  "FLEXPWM3": {
+    "FLEXPWM3_PWM0_A": [
+      [
+        "GPIO_EMC_29",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM3_PWM0_B": [
+      [
+        "GPIO_EMC_30",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM3_PWM1_A": [
+      [
+        "GPIO_EMC_31",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM3_PWM1_B": [
+      [
+        "GPIO_EMC_32",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM3_PWM2_A": [
+      [
+        "GPIO_EMC_33",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM3_PWM2_B": [
+      [
+        "GPIO_EMC_34",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM3_PWM3_A": [
+      [
+        "GPIO_EMC_21",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM3_PWM3_B": [
+      [
+        "GPIO_EMC_22",
+        "ALT1"
+      ]
+    ]
+  },
+  "FLEXPWM4": {
+    "FLEXPWM4_PWM0_A": [
+      [
+        "GPIO_AD_B1_08",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_00",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM4_PWM0_B": [
+      [
+        "GPIO_EMC_01",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM4_PWM1_A": [
+      [
+        "GPIO_AD_B1_09",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_02",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM4_PWM1_B": [
+      [
+        "GPIO_EMC_03",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM4_PWM2_A": [
+      [
+        "GPIO_B1_14",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_04",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM4_PWM2_B": [
+      [
+        "GPIO_EMC_05",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM4_PWM3_A": [
+      [
+        "GPIO_B1_15",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_17",
+        "ALT1"
+      ]
+    ],
+    "FLEXPWM4_PWM3_B": [
+      [
+        "GPIO_EMC_18",
+        "ALT1"
+      ]
+    ]
+  },
+  "FLEXSPI A": {
+    "FLEXSPI_A_DATA0": [
+      [
+        "GPIO_AD_B1_13",
+        "ALT0"
+      ],
+      [
+        "GPIO_SD_B1_08",
+        "ALT1"
+      ]
+    ],
+    "FLEXSPI_A_DATA1": [
+      [
+        "GPIO_AD_B1_12",
+        "ALT0"
+      ],
+      [
+        "GPIO_SD_B1_09",
+        "ALT1"
+      ]
+    ],
+    "FLEXSPI_A_DATA2": [
+      [
+        "GPIO_AD_B1_11",
+        "ALT0"
+      ],
+      [
+        "GPIO_SD_B1_10",
+        "ALT1"
+      ]
+    ],
+    "FLEXSPI_A_DATA3": [
+      [
+        "GPIO_AD_B1_10",
+        "ALT0"
+      ],
+      [
+        "GPIO_SD_B1_11",
+        "ALT1"
+      ]
+    ],
+    "FLEXSPI_A_DQS": [
+      [
+        "GPIO_AD_B1_09",
+        "ALT0"
+      ],
+      [
+        "GPIO_SD_B1_05",
+        "ALT1"
+      ]
+    ],
+    "FLEXSPI_A_SCLK": [
+      [
+        "GPIO_AD_B1_14",
+        "ALT0"
+      ],
+      [
+        "GPIO_SD_B1_07",
+        "ALT1"
+      ]
+    ],
+    "FLEXSPI_A_SS0_B": [
+      [
+        "GPIO_AD_B1_15",
+        "ALT0"
+      ],
+      [
+        "GPIO_SD_B1_06",
+        "ALT1"
+      ]
+    ],
+    "FLEXSPI_A_SS1_B": [
+      [
+        "GPIO_AD_B1_08",
+        "ALT0"
+      ],
+      [
+        "GPIO_SD_B0_00",
+        "ALT6"
+      ],
+      [
+        "GPIO_SD_B1_04",
+        "ALT4"
+      ]
+    ]
+  },
+  "FLEXSPI B": {
+    "FLEXSPI_B_DATA0": [
+      [
+        "GPIO_AD_B1_07",
+        "ALT0"
+      ],
+      [
+        "GPIO_SD_B1_03",
+        "ALT1"
+      ]
+    ],
+    "FLEXSPI_B_DATA1": [
+      [
+        "GPIO_AD_B1_06",
+        "ALT0"
+      ],
+      [
+        "GPIO_SD_B1_02",
+        "ALT1"
+      ]
+    ],
+    "FLEXSPI_B_DATA2": [
+      [
+        "GPIO_AD_B1_05",
+        "ALT0"
+      ],
+      [
+        "GPIO_SD_B1_01",
+        "ALT1"
+      ]
+    ],
+    "FLEXSPI_B_DATA3": [
+      [
+        "GPIO_AD_B1_04",
+        "ALT0"
+      ],
+      [
+        "GPIO_SD_B1_00",
+        "ALT1"
+      ]
+    ],
+    "FLEXSPI_B_DQS": [
+      [
+        "GPIO_SD_B0_05",
+        "ALT4"
+      ]
+    ],
+    "FLEXSPI_B_SCLK": [
+      [
+        "GPIO_SD_B1_04",
+        "ALT1"
+      ]
+    ],
+    "FLEXSPI_B_SS0_B": [
+      [
+        "GPIO_SD_B0_04",
+        "ALT4"
+      ],
+      [
+        "GPIO_SD_B1_05",
+        "ALT4"
+      ]
+    ],
+    "FLEXSPI_B_SS1_B": [
+      [
+        "GPIO_SD_B0_01",
+        "ALT6"
+      ]
+    ]
+  },
+  "FLEXSPI2 A": {
+    "FLEXSPI2_A_DATA0": [
+      [
+        "GPIO_EMC_26",
+        "ALT8"
+      ]
+    ],
+    "FLEXSPI2_A_DATA1": [
+      [
+        "GPIO_EMC_27",
+        "ALT8"
+      ]
+    ],
+    "FLEXSPI2_A_DATA2": [
+      [
+        "GPIO_EMC_28",
+        "ALT8"
+      ]
+    ],
+    "FLEXSPI2_A_DATA3": [
+      [
+        "GPIO_EMC_29",
+        "ALT8"
+      ]
+    ],
+    "FLEXSPI2_A_DQS": [
+      [
+        "GPIO_EMC_23",
+        "ALT8"
+      ]
+    ],
+    "FLEXSPI2_A_SCLK": [
+      [
+        "GPIO_EMC_25",
+        "ALT8"
+      ]
+    ],
+    "FLEXSPI2_A_SS0_B": [
+      [
+        "GPIO_EMC_24",
+        "ALT8"
+      ]
+    ],
+    "FLEXSPI2_A_SS1_B": [
+      [
+        "GPIO_EMC_22",
+        "ALT8"
+      ]
+    ]
+  },
+  "FLEXSPI2 B": {
+    "FLEXSPI2_B_DATA0": [
+      [
+        "GPIO_EMC_13",
+        "ALT8"
+      ]
+    ],
+    "FLEXSPI2_B_DATA1": [
+      [
+        "GPIO_EMC_14",
+        "ALT8"
+      ]
+    ],
+    "FLEXSPI2_B_DATA2": [
+      [
+        "GPIO_EMC_15",
+        "ALT8"
+      ]
+    ],
+    "FLEXSPI2_B_DATA3": [
+      [
+        "GPIO_EMC_16",
+        "ALT8"
+      ]
+    ],
+    "FLEXSPI2_B_DQS": [
+      [
+        "GPIO_EMC_11",
+        "ALT8"
+      ]
+    ],
+    "FLEXSPI2_B_SCLK": [
+      [
+        "GPIO_EMC_12",
+        "ALT8"
+      ]
+    ],
+    "FLEXSPI2_B_SS0_B": [
+      [
+        "GPIO_EMC_10",
+        "ALT8"
+      ]
+    ],
+    "FLEXSPI2_B_SS1_B": [
+      [
+        "GPIO_EMC_09",
+        "ALT8"
+      ]
+    ]
+  },
+  "GPIO1": {
+    "GPIO1_IO00": [
+      [
+        "GPIO_AD_B0_00",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO01": [
+      [
+        "GPIO_AD_B0_01",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO02": [
+      [
+        "GPIO_AD_B0_02",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO03": [
+      [
+        "GPIO_AD_B0_03",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO04": [
+      [
+        "GPIO_AD_B0_04",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO05": [
+      [
+        "GPIO_AD_B0_05",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO06": [
+      [
+        "GPIO_AD_B0_06",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO07": [
+      [
+        "GPIO_AD_B0_07",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO08": [
+      [
+        "GPIO_AD_B0_08",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO09": [
+      [
+        "GPIO_AD_B0_09",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO10": [
+      [
+        "GPIO_AD_B0_10",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO11": [
+      [
+        "GPIO_AD_B0_11",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO12": [
+      [
+        "GPIO_AD_B0_12",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO13": [
+      [
+        "GPIO_AD_B0_13",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO14": [
+      [
+        "GPIO_AD_B0_14",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO15": [
+      [
+        "GPIO_AD_B0_15",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO16": [
+      [
+        "GPIO_AD_B1_00",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO17": [
+      [
+        "GPIO_AD_B1_01",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO18": [
+      [
+        "GPIO_AD_B1_02",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO19": [
+      [
+        "GPIO_AD_B1_03",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO20": [
+      [
+        "GPIO_AD_B1_04",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO21": [
+      [
+        "GPIO_AD_B1_05",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO22": [
+      [
+        "GPIO_AD_B1_06",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO23": [
+      [
+        "GPIO_AD_B1_07",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO24": [
+      [
+        "GPIO_AD_B1_08",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO25": [
+      [
+        "GPIO_AD_B1_09",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO26": [
+      [
+        "GPIO_AD_B1_10",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO27": [
+      [
+        "GPIO_AD_B1_11",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO28": [
+      [
+        "GPIO_AD_B1_12",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO29": [
+      [
+        "GPIO_AD_B1_13",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO30": [
+      [
+        "GPIO_AD_B1_14",
+        "ALT5"
+      ]
+    ],
+    "GPIO1_IO31": [
+      [
+        "GPIO_AD_B1_15",
+        "ALT5"
+      ]
+    ]
+  },
+  "GPIO2": {
+    "GPIO2_IO00": [
+      [
+        "GPIO_B0_00",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO01": [
+      [
+        "GPIO_B0_01",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO02": [
+      [
+        "GPIO_B0_02",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO03": [
+      [
+        "GPIO_B0_03",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO04": [
+      [
+        "GPIO_B0_04",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO05": [
+      [
+        "GPIO_B0_05",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO06": [
+      [
+        "GPIO_B0_06",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO07": [
+      [
+        "GPIO_B0_07",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO08": [
+      [
+        "GPIO_B0_08",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO09": [
+      [
+        "GPIO_B0_09",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO10": [
+      [
+        "GPIO_B0_10",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO11": [
+      [
+        "GPIO_B0_11",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO12": [
+      [
+        "GPIO_B0_12",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO13": [
+      [
+        "GPIO_B0_13",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO14": [
+      [
+        "GPIO_B0_14",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO15": [
+      [
+        "GPIO_B0_15",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO16": [
+      [
+        "GPIO_B1_00",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO17": [
+      [
+        "GPIO_B1_01",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO18": [
+      [
+        "GPIO_B1_02",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO19": [
+      [
+        "GPIO_B1_03",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO20": [
+      [
+        "GPIO_B1_04",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO21": [
+      [
+        "GPIO_B1_05",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO22": [
+      [
+        "GPIO_B1_06",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO23": [
+      [
+        "GPIO_B1_07",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO24": [
+      [
+        "GPIO_B1_08",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO25": [
+      [
+        "GPIO_B1_09",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO26": [
+      [
+        "GPIO_B1_10",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO27": [
+      [
+        "GPIO_B1_11",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO28": [
+      [
+        "GPIO_B1_12",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO29": [
+      [
+        "GPIO_B1_13",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO30": [
+      [
+        "GPIO_B1_14",
+        "ALT5"
+      ]
+    ],
+    "GPIO2_IO31": [
+      [
+        "GPIO_B1_15",
+        "ALT5"
+      ]
+    ]
+  },
+  "GPIO3": {
+    "GPIO3_IO00": [
+      [
+        "GPIO_SD_B1_00",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO01": [
+      [
+        "GPIO_SD_B1_01",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO02": [
+      [
+        "GPIO_SD_B1_02",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO03": [
+      [
+        "GPIO_SD_B1_03",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO04": [
+      [
+        "GPIO_SD_B1_04",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO05": [
+      [
+        "GPIO_SD_B1_05",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO06": [
+      [
+        "GPIO_SD_B1_06",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO07": [
+      [
+        "GPIO_SD_B1_07",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO08": [
+      [
+        "GPIO_SD_B1_08",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO09": [
+      [
+        "GPIO_SD_B1_09",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO10": [
+      [
+        "GPIO_SD_B1_10",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO11": [
+      [
+        "GPIO_SD_B1_11",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO12": [
+      [
+        "GPIO_SD_B0_00",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO13": [
+      [
+        "GPIO_SD_B0_01",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO14": [
+      [
+        "GPIO_SD_B0_02",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO15": [
+      [
+        "GPIO_SD_B0_03",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO16": [
+      [
+        "GPIO_SD_B0_04",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO17": [
+      [
+        "GPIO_SD_B0_05",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO18": [
+      [
+        "GPIO_EMC_32",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO19": [
+      [
+        "GPIO_EMC_33",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO20": [
+      [
+        "GPIO_EMC_34",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO21": [
+      [
+        "GPIO_EMC_35",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO22": [
+      [
+        "GPIO_EMC_36",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO23": [
+      [
+        "GPIO_EMC_37",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO24": [
+      [
+        "GPIO_EMC_38",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO25": [
+      [
+        "GPIO_EMC_39",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO26": [
+      [
+        "GPIO_EMC_40",
+        "ALT5"
+      ]
+    ],
+    "GPIO3_IO27": [
+      [
+        "GPIO_EMC_41",
+        "ALT5"
+      ]
+    ]
+  },
+  "GPIO4": {
+    "GPIO4_IO0": [
+      [
+        "GPIO_EMC_00",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO1": [
+      [
+        "GPIO_EMC_01",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO2": [
+      [
+        "GPIO_EMC_02",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO3": [
+      [
+        "GPIO_EMC_03",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO4": [
+      [
+        "GPIO_EMC_04",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO5": [
+      [
+        "GPIO_EMC_05",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO6": [
+      [
+        "GPIO_EMC_06",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO7": [
+      [
+        "GPIO_EMC_07",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO8": [
+      [
+        "GPIO_EMC_08",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO9": [
+      [
+        "GPIO_EMC_09",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO10": [
+      [
+        "GPIO_EMC_10",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO11": [
+      [
+        "GPIO_EMC_11",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO12": [
+      [
+        "GPIO_EMC_12",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO13": [
+      [
+        "GPIO_EMC_13",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO14": [
+      [
+        "GPIO_EMC_14",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO15": [
+      [
+        "GPIO_EMC_15",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO16": [
+      [
+        "GPIO_EMC_16",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO17": [
+      [
+        "GPIO_EMC_17",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO18": [
+      [
+        "GPIO_EMC_18",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO19": [
+      [
+        "GPIO_EMC_19",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO20": [
+      [
+        "GPIO_EMC_20",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO21": [
+      [
+        "GPIO_EMC_21",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO22": [
+      [
+        "GPIO_EMC_22",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO23": [
+      [
+        "GPIO_EMC_23",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO24": [
+      [
+        "GPIO_EMC_24",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO25": [
+      [
+        "GPIO_EMC_25",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO26": [
+      [
+        "GPIO_EMC_26",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO27": [
+      [
+        "GPIO_EMC_27",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO28": [
+      [
+        "GPIO_EMC_28",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO29": [
+      [
+        "GPIO_EMC_29",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO30": [
+      [
+        "GPIO_EMC_30",
+        "ALT5"
+      ]
+    ],
+    "GPIO4_IO31": [
+      [
+        "GPIO_EMC_31",
+        "ALT5"
+      ]
+    ]
+  },
+  "GPIO5": {
+    "GPIO5_IO00": [
+      [
+        "WAKEUP",
+        "ALT5"
+      ]
+    ],
+    "GPIO5_IO01": [
+      [
+        "PMIC_ON_REQ",
+        "ALT5"
+      ]
+    ],
+    "GPIO5_IO02": [
+      [
+        "PMIC_STBY_REQ",
+        "ALT5"
+      ]
+    ]
+  },
+  "GPT1": {
+    "GPT1_CLK": [
+      [
+        "GPIO_AD_B0_13",
+        "ALT1"
+      ],
+      [
+        "GPIO_B1_04",
+        "ALT8"
+      ]
+    ],
+    "GPT1_CAPTURE1": [
+      [
+        "GPIO_EMC_24",
+        "ALT4"
+      ],
+      [
+        "GPIO_B1_05",
+        "ALT8"
+      ]
+    ],
+    "GPT1_CAPTURE2": [
+      [
+        "GPIO_EMC_23",
+        "ALT4"
+      ],
+      [
+        "GPIO_B1_06",
+        "ALT8"
+      ]
+    ],
+    "GPT1_COMPARE1": [
+      [
+        "GPIO_EMC_35",
+        "ALT2"
+      ],
+      [
+        "GPIO_B1_07",
+        "ALT8"
+      ]
+    ],
+    "GPT1_COMPARE2": [
+      [
+        "GPIO_EMC_36",
+        "ALT2"
+      ],
+      [
+        "GPIO_B1_08",
+        "ALT8"
+      ]
+    ],
+    "GPT1_COMPARE3": [
+      [
+        "GPIO_EMC_37",
+        "ALT2"
+      ],
+      [
+        "GPIO_B1_09",
+        "ALT8"
+      ]
+    ]
+  },
+  "GPT2": {
+    "GPT2_CLK": [
+      [
+        "GPIO_AD_B0_09",
+        "ALT7"
+      ],
+      [
+        "GPIO_AD_B1_02",
+        "ALT8"
+      ]
+    ],
+    "GPT2_CAPTURE1": [
+      [
+        "GPIO_EMC_41",
+        "ALT1"
+      ],
+      [
+        "GPIO_AD_B1_03",
+        "ALT8"
+      ]
+    ],
+    "GPT2_CAPTURE2": [
+      [
+        "GPIO_EMC_40",
+        "ALT1"
+      ],
+      [
+        "GPIO_AD_B1_04",
+        "ALT8"
+      ]
+    ],
+    "GPT2_COMPARE1": [
+      [
+        "GPIO_AD_B0_06",
+        "ALT1"
+      ],
+      [
+        "GPIO_AD_B1_05",
+        "ALT8"
+      ]
+    ],
+    "GPT2_COMPARE2": [
+      [
+        "GPIO_AD_B0_07",
+        "ALT1"
+      ],
+      [
+        "GPIO_AD_B1_06",
+        "ALT8"
+      ]
+    ],
+    "GPT2_COMPARE3": [
+      [
+        "GPIO_AD_B0_08",
+        "ALT1"
+      ],
+      [
+        "GPIO_AD_B1_07",
+        "ALT8"
+      ]
+    ]
+  },
+  "JTAG": {
+    "JTAG_TMS": [
+      [
+        "GPIO_AD_B0_06",
+        "ALT0"
+      ]
+    ],
+    "JTAG_TCK": [
+      [
+        "GPIO_AD_B0_07",
+        "ALT0"
+      ]
+    ],
+    "JTAG_MOD": [
+      [
+        "GPIO_AD_B0_08",
+        "ALT0"
+      ]
+    ],
+    "JTAG_TDI": [
+      [
+        "GPIO_AD_B0_09",
+        "ALT0"
+      ]
+    ],
+    "JTAG_TDO": [
+      [
+        "GPIO_AD_B0_10",
+        "ALT0"
+      ]
+    ],
+    "JTAG_TRSTB": [
+      [
+        "GPIO_AD_B0_11",
+        "ALT0"
+      ]
+    ],
+    "JTAG_DE_B": [
+      [
+        "GPIO_EMC_01",
+        "ALT7"
+      ]
+    ]
+  },
+  "KPP": {
+    "KPP_ROW0": [
+      [
+        "GPIO_AD_B1_14",
+        "ALT7"
+      ]
+    ],
+    "KPP_COL0": [
+      [
+        "GPIO_AD_B1_15",
+        "ALT7"
+      ]
+    ],
+    "KPP_ROW1": [
+      [
+        "GPIO_AD_B1_12",
+        "ALT7"
+      ]
+    ],
+    "KPP_COL1": [
+      [
+        "GPIO_AD_B1_13",
+        "ALT7"
+      ]
+    ],
+    "KPP_ROW2": [
+      [
+        "GPIO_AD_B1_10",
+        "ALT7"
+      ]
+    ],
+    "KPP_COL2": [
+      [
+        "GPIO_AD_B1_11",
+        "ALT7"
+      ]
+    ],
+    "KPP_ROW3": [
+      [
+        "GPIO_AD_B1_08",
+        "ALT7"
+      ]
+    ],
+    "KPP_COL3": [
+      [
+        "GPIO_AD_B1_09",
+        "ALT7"
+      ]
+    ],
+    "KPP_ROW4": [
+      [
+        "GPIO_AD_B1_06",
+        "ALT7"
+      ]
+    ],
+    "KPP_COL4": [
+      [
+        "GPIO_AD_B1_07",
+        "ALT7"
+      ]
+    ],
+    "KPP_ROW5": [
+      [
+        "GPIO_AD_B1_04",
+        "ALT7"
+      ]
+    ],
+    "KPP_COL5": [
+      [
+        "GPIO_AD_B1_05",
+        "ALT7"
+      ]
+    ],
+    "KPP_ROW6": [
+      [
+        "GPIO_AD_B1_02",
+        "ALT7"
+      ]
+    ],
+    "KPP_COL6": [
+      [
+        "GPIO_AD_B1_03",
+        "ALT7"
+      ]
+    ],
+    "KPP_ROW7": [
+      [
+        "GPIO_AD_B1_00",
+        "ALT7"
+      ]
+    ],
+    "KPP_COL7": [
+      [
+        "GPIO_AD_B1_01",
+        "ALT7"
+      ]
+    ]
+  },
+  "LCD": {
+    "LCD_CLK": [
+      [
+        "GPIO_B0_00",
+        "ALT0"
+      ]
+    ],
+    "LCD_ENABLE": [
+      [
+        "GPIO_B0_01",
+        "ALT0"
+      ]
+    ],
+    "LCD_HSYNC": [
+      [
+        "GPIO_B0_02",
+        "ALT0"
+      ]
+    ],
+    "LCD_VSYNC": [
+      [
+        "GPIO_B0_03",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA00": [
+      [
+        "GPIO_B0_04",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA01": [
+      [
+        "GPIO_B0_05",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA02": [
+      [
+        "GPIO_B0_06",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA03": [
+      [
+        "GPIO_B0_07",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA04": [
+      [
+        "GPIO_B0_08",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA05": [
+      [
+        "GPIO_B0_09",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA06": [
+      [
+        "GPIO_B0_10",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA07": [
+      [
+        "GPIO_B0_11",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA08": [
+      [
+        "GPIO_B0_12",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA09": [
+      [
+        "GPIO_B0_13",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA10": [
+      [
+        "GPIO_B0_14",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA11": [
+      [
+        "GPIO_B0_15",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA12": [
+      [
+        "GPIO_B1_00",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA13": [
+      [
+        "GPIO_B1_01",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA14": [
+      [
+        "GPIO_B1_02",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA15": [
+      [
+        "GPIO_B1_03",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA16": [
+      [
+        "GPIO_B1_04",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA17": [
+      [
+        "GPIO_B1_05",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA18": [
+      [
+        "GPIO_B1_06",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA19": [
+      [
+        "GPIO_B1_07",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA20": [
+      [
+        "GPIO_B1_08",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA21": [
+      [
+        "GPIO_B1_09",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA22": [
+      [
+        "GPIO_B1_10",
+        "ALT0"
+      ]
+    ],
+    "LCD_DATA23": [
+      [
+        "GPIO_B1_11",
+        "ALT0"
+      ]
+    ]
+  },
+  "LPI2C1": {
+    "LPI2C1_SCL": [
+      [
+        "GPIO_AD_B1_00",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_04",
+        "ALT2"
+      ]
+    ],
+    "LPI2C1_SDA": [
+      [
+        "GPIO_SD_B1_05",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B1_01",
+        "ALT3"
+      ]
+    ],
+    "LPI2C1_SCLS": [
+      [
+        "GPIO_AD_B0_00",
+        "ALT4"
+      ]
+    ],
+    "LPI2C1_SDAS": [
+      [
+        "GPIO_AD_B0_01",
+        "ALT4"
+      ]
+    ],
+    "LPI2C1_HREQ": [
+      [
+        "GPIO_AD_B0_02",
+        "ALT6"
+      ]
+    ]
+  },
+  "LPI2C2": {
+    "LPI2C2_SCL": [
+      [
+        "GPIO_B0_04",
+        "ALT2"
+      ],
+      [
+        "GPIO_SD_B1_11",
+        "ALT3"
+      ]
+    ],
+    "LPI2C2_SDA": [
+      [
+        "GPIO_B0_05",
+        "ALT2"
+      ],
+      [
+        "GPIO_SD_B1_10",
+        "ALT3"
+      ]
+    ]
+  },
+  "LPI2C3": {
+    "LPI2C3_SCL": [
+      [
+        "GPIO_AD_B1_07",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_22",
+        "ALT2"
+      ],
+      [
+        "GPIO_SD_B0_00",
+        "ALT2"
+      ]
+    ],
+    "LPI2C3_SDA": [
+      [
+        "GPIO_AD_B1_06",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_21",
+        "ALT2"
+      ],
+      [
+        "GPIO_SD_B0_01",
+        "ALT2"
+      ]
+    ]
+  },
+  "LPI2C4": {
+    "LPI2C4_SCL": [
+      [
+        "GPIO_AD_B0_12",
+        "ALT0"
+      ],
+      [
+        "GPIO_EMC_12",
+        "ALT2"
+      ]
+    ],
+    "LPI2C4_SDA": [
+      [
+        "GPIO_EMC_11",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B0_13",
+        "ALT0"
+      ]
+    ]
+  },
+  "LPSPI1": {
+    "LPSPI1_PCS0": [
+      [
+        "GPIO_EMC_30",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B0_01",
+        "ALT4"
+      ]
+    ],
+    "LPSPI1_PCS1": [
+      [
+        "GPIO_EMC_31",
+        "ALT3"
+      ]
+    ],
+    "LPSPI1_PCS2": [
+      [
+        "GPIO_EMC_40",
+        "ALT2"
+      ]
+    ],
+    "LPSPI1_PCS3": [
+      [
+        "GPIO_EMC_41",
+        "ALT2"
+      ]
+    ],
+    "LPSPI1_SCK": [
+      [
+        "GPIO_SD_B0_00",
+        "ALT4"
+      ],
+      [
+        "GPIO_EMC_27",
+        "ALT3"
+      ]
+    ],
+    "LPSPI1_SOUT": [
+      [
+        "GPIO_SD_B0_02",
+        "ALT4"
+      ],
+      [
+        "GPIO_EMC_28",
+        "ALT3"
+      ]
+    ],
+    "LPSPI1_SIN": [
+      [
+        "GPIO_EMC_29",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B0_03",
+        "ALT4"
+      ]
+    ]
+  },
+  "LPSPI2": {
+    "LPSPI2_PCS0": [
+      [
+        "GPIO_SD_B1_06",
+        "ALT4"
+      ],
+      [
+        "GPIO_EMC_01",
+        "ALT2"
+      ]
+    ],
+    "LPSPI2_PCS1": [
+      [
+        "GPIO_EMC_14",
+        "ALT4"
+      ]
+    ],
+    "LPSPI2_PCS2": [
+      [
+        "GPIO_SD_B1_10",
+        "ALT4"
+      ]
+    ],
+    "LPSPI2_PCS3": [
+      [
+        "GPIO_SD_B1_11",
+        "ALT4"
+      ]
+    ],
+    "LPSPI2_SCK": [
+      [
+        "GPIO_SD_B1_07",
+        "ALT4"
+      ],
+      [
+        "GPIO_EMC_00",
+        "ALT2"
+      ]
+    ],
+    "LPSPI2_SOUT": [
+      [
+        "GPIO_EMC_02",
+        "ALT2"
+      ],
+      [
+        "GPIO_SD_B1_08",
+        "ALT4"
+      ]
+    ],
+    "LPSPI2_SIN": [
+      [
+        "GPIO_SD_B1_09",
+        "ALT4"
+      ],
+      [
+        "GPIO_EMC_03",
+        "ALT2"
+      ]
+    ]
+  },
+  "LPSPI3": {
+    "LPSPI3_PCS0": [
+      [
+        "GPIO_AD_B1_12",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B0_03",
+        "ALT7"
+      ]
+    ],
+    "LPSPI3_PCS1": [
+      [
+        "GPIO_AD_B0_04",
+        "ALT7"
+      ]
+    ],
+    "LPSPI3_PCS2": [
+      [
+        "GPIO_AD_B0_05",
+        "ALT7"
+      ]
+    ],
+    "LPSPI3_PCS3": [
+      [
+        "GPIO_AD_B0_06",
+        "ALT7"
+      ]
+    ],
+    "LPSPI3_SCK": [
+      [
+        "GPIO_AD_B1_15",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B0_00",
+        "ALT7"
+      ]
+    ],
+    "LPSPI3_SOUT": [
+      [
+        "GPIO_AD_B0_01",
+        "ALT7"
+      ],
+      [
+        "GPIO_AD_B1_14",
+        "ALT2"
+      ]
+    ],
+    "LPSPI3_SIN": [
+      [
+        "GPIO_AD_B1_13",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B0_02",
+        "ALT7"
+      ]
+    ]
+  },
+  "LPSPI4": {
+    "LPSPI4_PCS0": [
+      [
+        "GPIO_B1_04",
+        "ALT1"
+      ],
+      [
+        "GPIO_B0_00",
+        "ALT3"
+      ]
+    ],
+    "LPSPI4_PCS1": [
+      [
+        "GPIO_B1_03",
+        "ALT2"
+      ]
+    ],
+    "LPSPI4_PCS2": [
+      [
+        "GPIO_B1_02",
+        "ALT2"
+      ]
+    ],
+    "LPSPI4_PCS3": [
+      [
+        "GPIO_B1_11",
+        "ALT6"
+      ]
+    ],
+    "LPSPI4_SCK": [
+      [
+        "GPIO_B1_07",
+        "ALT1"
+      ],
+      [
+        "GPIO_B0_03",
+        "ALT3"
+      ]
+    ],
+    "LPSPI4_SOUT": [
+      [
+        "GPIO_B1_06",
+        "ALT1"
+      ],
+      [
+        "GPIO_B0_02",
+        "ALT3"
+      ]
+    ],
+    "LPSPI4_SIN": [
+      [
+        "GPIO_B1_05",
+        "ALT1"
+      ],
+      [
+        "GPIO_B0_01",
+        "ALT3"
+      ]
+    ]
+  },
+  "LPUART1": {
+    "LPUART1_TXD": [
+      [
+        "GPIO_AD_B0_12",
+        "ALT2"
+      ]
+    ],
+    "LPUART1_RXD": [
+      [
+        "GPIO_AD_B0_13",
+        "ALT2"
+      ]
+    ],
+    "LPUART1_CTS_B": [
+      [
+        "GPIO_AD_B0_14",
+        "ALT2"
+      ]
+    ],
+    "LPUART1_RTS_B": [
+      [
+        "GPIO_AD_B0_15",
+        "ALT2"
+      ]
+    ]
+  },
+  "LPUART2": {
+    "LPUART2_TXD": [
+      [
+        "GPIO_SD_B1_11",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B1_02",
+        "ALT2"
+      ]
+    ],
+    "LPUART2_RXD": [
+      [
+        "GPIO_AD_B1_03",
+        "ALT2"
+      ],
+      [
+        "GPIO_SD_B1_10",
+        "ALT2"
+      ]
+    ],
+    "LPUART2_CTS_B": [
+      [
+        "GPIO_AD_B1_00",
+        "ALT2"
+      ]
+    ],
+    "LPUART2_RTS_B": [
+      [
+        "GPIO_AD_B1_01",
+        "ALT2"
+      ]
+    ]
+  },
+  "LPUART3": {
+    "LPUART3_TXD": [
+      [
+        "GPIO_AD_B1_06",
+        "ALT2"
+      ],
+      [
+        "GPIO_B0_08",
+        "ALT3"
+      ],
+      [
+        "GPIO_EMC_13",
+        "ALT2"
+      ]
+    ],
+    "LPUART3_RXD": [
+      [
+        "GPIO_EMC_14",
+        "ALT2"
+      ],
+      [
+        "GPIO_B0_09",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_07",
+        "ALT2"
+      ]
+    ],
+    "LPUART3_CTS_B": [
+      [
+        "GPIO_EMC_15",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B1_04",
+        "ALT2"
+      ]
+    ],
+    "LPUART3_RTS_B": [
+      [
+        "GPIO_AD_B1_05",
+        "ALT2"
+      ],
+      [
+        "GPIO_EMC_16",
+        "ALT2"
+      ]
+    ]
+  },
+  "LPUART4": {
+    "LPUART4_TXD": [
+      [
+        "GPIO_SD_B1_00",
+        "ALT4"
+      ],
+      [
+        "GPIO_B1_00",
+        "ALT2"
+      ],
+      [
+        "GPIO_EMC_19",
+        "ALT2"
+      ]
+    ],
+    "LPUART4_RXD": [
+      [
+        "GPIO_SD_B1_01",
+        "ALT4"
+      ],
+      [
+        "GPIO_EMC_20",
+        "ALT2"
+      ],
+      [
+        "GPIO_B1_01",
+        "ALT2"
+      ]
+    ],
+    "LPUART4_CTS_B": [
+      [
+        "GPIO_EMC_17",
+        "ALT2"
+      ]
+    ],
+    "LPUART4_RTS_B": [
+      [
+        "GPIO_EMC_18",
+        "ALT2"
+      ]
+    ]
+  },
+  "LPUART5": {
+    "LPUART5_TXD": [
+      [
+        "GPIO_EMC_23",
+        "ALT2"
+      ],
+      [
+        "GPIO_B1_12",
+        "ALT1"
+      ]
+    ],
+    "LPUART5_RXD": [
+      [
+        "GPIO_B1_13",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_24",
+        "ALT2"
+      ]
+    ],
+    "LPUART5_CTS_B": [
+      [
+        "GPIO_EMC_28",
+        "ALT2"
+      ]
+    ],
+    "LPUART5_RTS_B": [
+      [
+        "GPIO_EMC_27",
+        "ALT2"
+      ]
+    ]
+  },
+  "LPUART6": {
+    "LPUART6_TXD": [
+      [
+        "GPIO_EMC_25",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B0_02",
+        "ALT2"
+      ]
+    ],
+    "LPUART6_RXD": [
+      [
+        "GPIO_AD_B0_03",
+        "ALT2"
+      ],
+      [
+        "GPIO_EMC_26",
+        "ALT2"
+      ]
+    ],
+    "LPUART6_CTS_B": [
+      [
+        "GPIO_EMC_30",
+        "ALT2"
+      ]
+    ],
+    "LPUART6_RTS_B": [
+      [
+        "GPIO_EMC_29",
+        "ALT2"
+      ]
+    ]
+  },
+  "LPUART7": {
+    "LPUART7_TXD": [
+      [
+        "GPIO_SD_B1_08",
+        "ALT2"
+      ],
+      [
+        "GPIO_EMC_31",
+        "ALT2"
+      ]
+    ],
+    "LPUART7_RXD": [
+      [
+        "GPIO_EMC_32",
+        "ALT2"
+      ],
+      [
+        "GPIO_SD_B1_09",
+        "ALT2"
+      ]
+    ],
+    "LPUART7_CTS_B": [
+      [
+        "GPIO_SD_B1_06",
+        "ALT2"
+      ]
+    ],
+    "LPUART7_RTS_B": [
+      [
+        "GPIO_SD_B1_07",
+        "ALT2"
+      ]
+    ]
+  },
+  "LPUART8": {
+    "LPUART8_TXD": [
+      [
+        "GPIO_EMC_38",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B1_10",
+        "ALT2"
+      ],
+      [
+        "GPIO_SD_B0_04",
+        "ALT2"
+      ]
+    ],
+    "LPUART8_RXD": [
+      [
+        "GPIO_SD_B0_05",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B1_11",
+        "ALT2"
+      ],
+      [
+        "GPIO_EMC_39",
+        "ALT2"
+      ]
+    ],
+    "LPUART8_CTS_B": [
+      [
+        "GPIO_SD_B0_02",
+        "ALT2"
+      ]
+    ],
+    "LPUART8_RTS_B": [
+      [
+        "GPIO_SD_B0_03",
+        "ALT2"
+      ]
+    ]
+  },
+  "MQS": {
+    "MQS_RIGHT": [
+      [
+        "GPIO_AD_B0_04",
+        "ALT1"
+      ],
+      [
+        "GPIO_B0_00",
+        "ALT2"
+      ],
+      [
+        "GPIO_EMC_13",
+        "ALT3"
+      ]
+    ],
+    "MQS_LEFT": [
+      [
+        "GPIO_EMC_14",
+        "ALT3"
+      ],
+      [
+        "GPIO_B0_01",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B0_05",
+        "ALT1"
+      ]
+    ]
+  },
+  "PIT": {
+    "PIT_TRIGGER0": [
+      [
+        "GPIO_AD_B0_04",
+        "ALT6"
+      ]
+    ]
+  },
+  "SAI1": {
+    "SAI1_TX_DATA0": [
+      [
+        "GPIO_AD_B1_13",
+        "ALT3"
+      ],
+      [
+        "GPIO_B1_01",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_07",
+        "ALT3"
+      ]
+    ],
+    "SAI1_TX_DATA1 and": [
+      [
+        "GPIO_B0_12",
+        "ALT3"
+      ]
+    ],
+    "SAI1_RX_DATA3": [
+      [
+        "GPIO_SD_B1_02",
+        "ALT3"
+      ]
+    ],
+    "SAI1_TX_DATA2 and": [
+      [
+        "GPIO_B0_11",
+        "ALT3"
+      ]
+    ],
+    "SAI1_RX_DATA2": [
+      [
+        "GPIO_SD_B1_01",
+        "ALT3"
+      ]
+    ],
+    "SAI1_TX_DATA3 and": [
+      [
+        "GPIO_B0_10",
+        "ALT3"
+      ]
+    ],
+    "SAI1_RX_DATA1": [
+      [
+        "GPIO_SD_B1_00",
+        "ALT3"
+      ]
+    ],
+    "SAI1_TX_BCLK": [
+      [
+        "GPIO_SD_B1_08",
+        "ALT3"
+      ],
+      [
+        "GPIO_B1_02",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_14",
+        "ALT3"
+      ]
+    ],
+    "SAI1_TX_SYNC": [
+      [
+        "GPIO_AD_B1_15",
+        "ALT3"
+      ],
+      [
+        "GPIO_B1_03",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_09",
+        "ALT3"
+      ]
+    ],
+    "SAI1_RX_DATA0": [
+      [
+        "GPIO_B1_00",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_12",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_06",
+        "ALT3"
+      ]
+    ],
+    "SAI1_RX_BCLK": [
+      [
+        "GPIO_AD_B1_11",
+        "ALT3"
+      ],
+      [
+        "GPIO_B0_15",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_05",
+        "ALT3"
+      ]
+    ],
+    "SAI1_RX_SYNC": [
+      [
+        "GPIO_AD_B1_10",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_04",
+        "ALT3"
+      ],
+      [
+        "GPIO_B0_14",
+        "ALT3"
+      ]
+    ],
+    "SAI1_MCLK": [
+      [
+        "GPIO_B0_13",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_03",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_09",
+        "ALT3"
+      ]
+    ]
+  },
+  "SAI2": {
+    "SAI2_TX_DATA": [
+      [
+        "GPIO_EMC_04",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B0_09",
+        "ALT3"
+      ]
+    ],
+    "SAI2_TX_BCLK": [
+      [
+        "GPIO_AD_B0_05",
+        "ALT3"
+      ],
+      [
+        "GPIO_EMC_06",
+        "ALT2"
+      ]
+    ],
+    "SAI2_TX_SYNC": [
+      [
+        "GPIO_AD_B0_04",
+        "ALT3"
+      ],
+      [
+        "GPIO_EMC_05",
+        "ALT2"
+      ]
+    ],
+    "SAI2_RX_DATA": [
+      [
+        "GPIO_AD_B0_08",
+        "ALT3"
+      ],
+      [
+        "GPIO_EMC_08",
+        "ALT2"
+      ]
+    ],
+    "SAI2_RX_BCLK": [
+      [
+        "GPIO_EMC_10",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B0_06",
+        "ALT3"
+      ]
+    ],
+    "SAI2_RX_SYNC": [
+      [
+        "GPIO_EMC_09",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B0_07",
+        "ALT3"
+      ]
+    ],
+    "SAI2_MCLK": [
+      [
+        "GPIO_EMC_07",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B0_10",
+        "ALT3"
+      ]
+    ]
+  },
+  "SAI3": {
+    "SAI3_TX_DATA": [
+      [
+        "GPIO_EMC_36",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_01",
+        "ALT8"
+      ]
+    ],
+    "SAI3_TX_BCLK": [
+      [
+        "GPIO_EMC_38",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_03",
+        "ALT8"
+      ]
+    ],
+    "SAI3_TX_SYNC": [
+      [
+        "GPIO_EMC_39",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_02",
+        "ALT8"
+      ]
+    ],
+    "SAI3_RX_DATA": [
+      [
+        "GPIO_EMC_33",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_00",
+        "ALT8"
+      ]
+    ],
+    "SAI3_RX_BCLK": [
+      [
+        "GPIO_EMC_35",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_06",
+        "ALT8"
+      ]
+    ],
+    "SAI3_RX_SYNC": [
+      [
+        "GPIO_EMC_34",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_05",
+        "ALT8"
+      ]
+    ],
+    "SAI3_MCLK": [
+      [
+        "GPIO_EMC_37",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_04",
+        "ALT8"
+      ]
+    ]
+  },
+  "SEMC": {
+    "SEMC_DATA00": [
+      [
+        "GPIO_EMC_00",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA01": [
+      [
+        "GPIO_EMC_01",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA02": [
+      [
+        "GPIO_EMC_02",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA03": [
+      [
+        "GPIO_EMC_03",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA04": [
+      [
+        "GPIO_EMC_04",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA05": [
+      [
+        "GPIO_EMC_05",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA06": [
+      [
+        "GPIO_EMC_06",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA07": [
+      [
+        "GPIO_EMC_07",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA08": [
+      [
+        "GPIO_EMC_30",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA09": [
+      [
+        "GPIO_EMC_31",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA10": [
+      [
+        "GPIO_EMC_32",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA11": [
+      [
+        "GPIO_EMC_33",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA12": [
+      [
+        "GPIO_EMC_34",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA13": [
+      [
+        "GPIO_EMC_35",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA14": [
+      [
+        "GPIO_EMC_36",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DATA15": [
+      [
+        "GPIO_EMC_37",
+        "ALT0"
+      ]
+    ],
+    "SEMC_ADDR00": [
+      [
+        "GPIO_EMC_09",
+        "ALT0"
+      ]
+    ],
+    "SEMC_ADDR01": [
+      [
+        "GPIO_EMC_10",
+        "ALT0"
+      ]
+    ],
+    "SEMC_ADDR02": [
+      [
+        "GPIO_EMC_11",
+        "ALT0"
+      ]
+    ],
+    "SEMC_ADDR03": [
+      [
+        "GPIO_EMC_12",
+        "ALT0"
+      ]
+    ],
+    "SEMC_ADDR04": [
+      [
+        "GPIO_EMC_13",
+        "ALT0"
+      ]
+    ],
+    "SEMC_ADDR05": [
+      [
+        "GPIO_EMC_14",
+        "ALT0"
+      ]
+    ],
+    "SEMC_ADDR06": [
+      [
+        "GPIO_EMC_15",
+        "ALT0"
+      ]
+    ],
+    "SEMC_ADDR07": [
+      [
+        "GPIO_EMC_16",
+        "ALT0"
+      ]
+    ],
+    "SEMC_ADDR08": [
+      [
+        "GPIO_EMC_17",
+        "ALT0"
+      ]
+    ],
+    "SEMC_ADDR09": [
+      [
+        "GPIO_EMC_18",
+        "ALT0"
+      ]
+    ],
+    "SEMC_ADDR10": [
+      [
+        "GPIO_EMC_23",
+        "ALT0"
+      ]
+    ],
+    "SEMC_ADDR11": [
+      [
+        "GPIO_EMC_19",
+        "ALT0"
+      ]
+    ],
+    "SEMC_ADDR12": [
+      [
+        "GPIO_EMC_20",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DM0": [
+      [
+        "GPIO_EMC_08",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DM1": [
+      [
+        "GPIO_EMC_38",
+        "ALT0"
+      ]
+    ],
+    "SEMC_BA0": [
+      [
+        "GPIO_EMC_21",
+        "ALT0"
+      ]
+    ],
+    "SEMC_BA1": [
+      [
+        "GPIO_EMC_22",
+        "ALT0"
+      ]
+    ],
+    "SEMC_CAS": [
+      [
+        "GPIO_EMC_24",
+        "ALT0"
+      ]
+    ],
+    "SEMC_RAS": [
+      [
+        "GPIO_EMC_25",
+        "ALT0"
+      ]
+    ],
+    "SEMC_CLK": [
+      [
+        "GPIO_EMC_26",
+        "ALT0"
+      ]
+    ],
+    "SEMC_CKE": [
+      [
+        "GPIO_EMC_27",
+        "ALT0"
+      ]
+    ],
+    "SEMC_WE": [
+      [
+        "GPIO_EMC_28",
+        "ALT0"
+      ]
+    ],
+    "SEMC_CS0": [
+      [
+        "GPIO_EMC_29",
+        "ALT0"
+      ]
+    ],
+    "SEMC_DQS": [
+      [
+        "GPIO_EMC_39",
+        "ALT0"
+      ]
+    ],
+    "SEMC_RDY": [
+      [
+        "GPIO_EMC_40",
+        "ALT0"
+      ]
+    ],
+    "SEMC_CSX0": [
+      [
+        "GPIO_EMC_41",
+        "ALT0"
+      ]
+    ],
+    "SEMC_CSX1": [
+      [
+        "GPIO_SD_B1_07",
+        "ALT0"
+      ],
+      [
+        "GPIO_B0_00",
+        "ALT6"
+      ]
+    ],
+    "SEMC_CSX2": [
+      [
+        "GPIO_SD_B1_08",
+        "ALT6"
+      ],
+      [
+        "GPIO_B0_01",
+        "ALT6"
+      ]
+    ],
+    "SEMC_CSX3": [
+      [
+        "GPIO_B0_02",
+        "ALT6"
+      ]
+    ]
+  },
+  "SNVS": {
+    "SNVS_PMIC_ON_REQ": [
+      [
+        "PMIC_ON_REQ",
+        "ALT0"
+      ]
+    ],
+    "SNVS_VIO_5_CTL": [
+      [
+        "GPIO_EMC_18",
+        "ALT6"
+      ]
+    ],
+    "SNVS_VIO_5_B": [
+      [
+        "GPIO_EMC_19",
+        "ALT6"
+      ]
+    ]
+  },
+  "SPDIF": {
+    "SPDIF_OUT": [
+      [
+        "GPIO_EMC_15",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_05",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_02",
+        "ALT3"
+      ]
+    ],
+    "SPDIF_IN": [
+      [
+        "GPIO_EMC_16",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_03",
+        "ALT3"
+      ]
+    ],
+    "SPDIF_SR_CLK": [
+      [
+        "GPIO_AD_B1_04",
+        "ALT3"
+      ]
+    ],
+    "SPDIF_LOCK": [
+      [
+        "GPIO_AD_B1_06",
+        "ALT3"
+      ]
+    ],
+    "SPDIF_EXT_CLK": [
+      [
+        "GPIO_AD_B1_07",
+        "ALT3"
+      ]
+    ]
+  },
+  "SRC": {
+    "SRC_POR_B": [
+      [
+        "POR_B",
+        "ALT0 (No Muxing)"
+      ]
+    ],
+    "SRC_RESET_B": [
+      [
+        "ONOFF",
+        "ALT0 (No Muxing)"
+      ]
+    ],
+    "SRC_BOOT_MODE0": [
+      [
+        "GPIO_AD_B0_04",
+        "ALT0"
+      ]
+    ],
+    "SRC_BOOT_MODE1": [
+      [
+        "GPIO_AD_B0_05",
+        "ALT0"
+      ]
+    ],
+    "SRC_BT_CFG00": [
+      [
+        "GPIO_B0_04",
+        "ALT6"
+      ]
+    ],
+    "SRC_BT_CFG01": [
+      [
+        "GPIO_B0_05",
+        "ALT6"
+      ]
+    ],
+    "SRC_BT_CFG02": [
+      [
+        "GPIO_B0_06",
+        "ALT6"
+      ]
+    ],
+    "SRC_BT_CFG03": [
+      [
+        "GPIO_B0_07",
+        "ALT6"
+      ]
+    ],
+    "SRC_BT_CFG04": [
+      [
+        "GPIO_B0_08",
+        "ALT6"
+      ]
+    ],
+    "SRC_BT_CFG05": [
+      [
+        "GPIO_B0_09",
+        "ALT6"
+      ]
+    ],
+    "SRC_BT_CFG06": [
+      [
+        "GPIO_B0_10",
+        "ALT6"
+      ]
+    ],
+    "SRC_BT_CFG07": [
+      [
+        "GPIO_B0_11",
+        "ALT6"
+      ]
+    ],
+    "SRC_BT_CFG08": [
+      [
+        "GPIO_B0_12",
+        "ALT6"
+      ]
+    ],
+    "SRC_BT_CFG09": [
+      [
+        "GPIO_B0_13",
+        "ALT6"
+      ]
+    ],
+    "SRC_BT_CFG10": [
+      [
+        "GPIO_B0_14",
+        "ALT6"
+      ]
+    ],
+    "SRC_BT_CFG11": [
+      [
+        "GPIO_B0_15",
+        "ALT6"
+      ]
+    ]
+  },
+  "SWD": {
+    "SWD_DIO": [
+      [
+        "GPIO_AD_B0_06",
+        "ALT0"
+      ]
+    ],
+    "SWD_CLK": [
+      [
+        "GPIO_AD_B0_07",
+        "ALT0"
+      ]
+    ]
+  },
+  "TMR1 (QUAD TIMER)": {
+    "TMR1_TIMER0": [
+      [
+        "GPIO_B0_00",
+        "ALT1"
+      ]
+    ],
+    "TMR1_TIMER1": [
+      [
+        "GPIO_B0_01",
+        "ALT1"
+      ]
+    ],
+    "TMR1_TIMER2": [
+      [
+        "GPIO_B0_02",
+        "ALT1"
+      ]
+    ],
+    "TMR1_TIMER3": [
+      [
+        "GPIO_B1_08",
+        "ALT1"
+      ]
+    ]
+  },
+  "TMR2 (QUAD TIMER)": {
+    "TMR2_TIMER0": [
+      [
+        "GPIO_EMC_19",
+        "ALT4"
+      ],
+      [
+        "GPIO_B0_03",
+        "ALT1"
+      ]
+    ],
+    "TMR2_TIMER1": [
+      [
+        "GPIO_EMC_20",
+        "ALT4"
+      ],
+      [
+        "GPIO_B0_04",
+        "ALT1"
+      ]
+    ],
+    "TMR2_TIMER2": [
+      [
+        "GPIO_EMC_21",
+        "ALT4"
+      ],
+      [
+        "GPIO_B0_05",
+        "ALT1"
+      ]
+    ],
+    "TMR2_TIMER3": [
+      [
+        "GPIO_EMC_22",
+        "ALT4"
+      ],
+      [
+        "GPIO_B1_09",
+        "ALT1"
+      ]
+    ]
+  },
+  "TMR3 (QUAD TIMER)": {
+    "TMR3_TIMER0": [
+      [
+        "GPIO_AD_B1_00",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_15",
+        "ALT4"
+      ],
+      [
+        "GPIO_B0_06",
+        "ALT1"
+      ]
+    ],
+    "TMR3_TIMER1": [
+      [
+        "GPIO_AD_B1_01",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_16",
+        "ALT4"
+      ],
+      [
+        "GPIO_B0_07",
+        "ALT1"
+      ]
+    ],
+    "TMR3_TIMER2": [
+      [
+        "GPIO_EMC_17",
+        "ALT4"
+      ],
+      [
+        "GPIO_AD_B1_02",
+        "ALT1"
+      ],
+      [
+        "GPIO_B0_08",
+        "ALT1"
+      ]
+    ],
+    "TMR3_TIMER3": [
+      [
+        "GPIO_B1_10",
+        "ALT1"
+      ],
+      [
+        "GPIO_AD_B1_03",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_18",
+        "ALT4"
+      ]
+    ]
+  },
+  "TMR4 (QUAD TIMER)": {
+    "TMR4_TIMER0": [
+      [
+        "GPIO_B0_09",
+        "ALT1"
+      ]
+    ],
+    "TMR4_TIMER1": [
+      [
+        "GPIO_B0_10",
+        "ALT1"
+      ]
+    ],
+    "TMR4_TIMER2": [
+      [
+        "GPIO_B0_11",
+        "ALT1"
+      ]
+    ],
+    "TMR4_TIMER3": [
+      [
+        "GPIO_B1_11",
+        "ALT1"
+      ]
+    ]
+  },
+  "TPIU": {
+    "ARM_TRACE0": [
+      [
+        "GPIO_B0_04",
+        "ALT3"
+      ]
+    ],
+    "ARM_TRACE1": [
+      [
+        "GPIO_B0_05",
+        "ALT3"
+      ]
+    ],
+    "ARM_TRACE2": [
+      [
+        "GPIO_B0_06",
+        "ALT3"
+      ]
+    ],
+    "ARM_TRACE3": [
+      [
+        "GPIO_B0_07",
+        "ALT3"
+      ]
+    ],
+    "ARM_TRACE_CLK": [
+      [
+        "GPIO_B0_12",
+        "ALT2"
+      ]
+    ],
+    "ARM_TRACE_SWO": [
+      [
+        "GPIO_B0_13",
+        "ALT2"
+      ]
+    ]
+  },
+  "USB": {
+    "USB_OTG1_PWR": [
+      [
+        "GPIO_AD_B0_02",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_01",
+        "ALT0"
+      ]
+    ],
+    "USB_OTG1_OC": [
+      [
+        "GPIO_AD_B0_03",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_03",
+        "ALT0"
+      ]
+    ],
+    "USB_OTG1_ID": [
+      [
+        "GPIO_AD_B0_01",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_02",
+        "ALT0"
+      ]
+    ],
+    "USB_OTG2_PWR": [
+      [
+        "GPIO_EMC_41",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B0_15",
+        "ALT0"
+      ]
+    ],
+    "USB_OTG2_OC": [
+      [
+        "GPIO_EMC_40",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B0_14",
+        "ALT0"
+      ]
+    ],
+    "USB_OTG2_ID": [
+      [
+        "GPIO_AD_B0_00",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_00",
+        "ALT0"
+      ]
+    ]
+  },
+  "USB PHY 1": {
+    "USB_PHY1_TSTI_TX_LS_MODE": [
+      [
+        "GPIO_EMC_00",
+        "ALT6"
+      ]
+    ],
+    "USB_PHY1_TSTI_TX_HS_MODE": [
+      [
+        "GPIO_EMC_01",
+        "ALT6"
+      ]
+    ],
+    "USB_PHY1_TSTI_TX_DN": [
+      [
+        "GPIO_EMC_02",
+        "ALT6"
+      ]
+    ],
+    "USB_PHY1_TSTO_RX_SQUELCH": [
+      [
+        "GPIO_EMC_03",
+        "ALT6"
+      ]
+    ],
+    "USB_PHY1_TSTO_RX_DISCON_DET": [
+      [
+        "GPIO_EMC_04",
+        "ALT6"
+      ]
+    ],
+    "USB_PHY1_TSTO_RX_HS_RXD": [
+      [
+        "GPIO_EMC_05",
+        "ALT6"
+      ]
+    ],
+    "USB_PHY1_TSTO_RX_FS_RXD": [
+      [
+        "GPIO_EMC_07",
+        "ALT6"
+      ]
+    ],
+    "USB_PHY1_TSTI_TX_DP": [
+      [
+        "GPIO_EMC_08",
+        "ALT6"
+      ]
+    ],
+    "USB_PHY1_TSTI_TX_EN": [
+      [
+        "GPIO_EMC_09",
+        "ALT6"
+      ]
+    ],
+    "USB_PHY1_TSTI_TX_HIZ": [
+      [
+        "GPIO_EMC_10",
+        "ALT6"
+      ]
+    ],
+    "USB_PHY1_TSTO_PLL_CLK20DIV": [
+      [
+        "GPIO_EMC_12",
+        "ALT6"
+      ]
+    ]
+  },
+  "USB PHY 2": {
+    "USB_PHY2_TSTO_RX_FS_RXD": [
+      [
+        "GPIO_EMC_06",
+        "ALT6"
+      ]
+    ],
+    "USB_PHY2_TSTO_RX_HS_RXD": [
+      [
+        "GPIO_EMC_11",
+        "ALT6"
+      ]
+    ],
+    "USB_PHY2_TSTO_PLL_CLK20DIV": [
+      [
+        "GPIO_EMC_13",
+        "ALT6"
+      ]
+    ],
+    "USB_PHY2_TSTO_RX_SQUELCH": [
+      [
+        "GPIO_EMC_14",
+        "ALT6"
+      ]
+    ],
+    "USB_PHY2_TSTO_RX_DISCON_DET": [
+      [
+        "GPIO_EMC_15",
+        "ALT6"
+      ]
+    ]
+  },
+  "USDHC1": {
+    "USDHC1_CMD": [
+      [
+        "GPIO_SD_B0_00",
+        "ALT0"
+      ]
+    ],
+    "USDHC1_CLK": [
+      [
+        "GPIO_SD_B0_01",
+        "ALT0"
+      ]
+    ],
+    "USDHC1_DATA0": [
+      [
+        "GPIO_SD_B0_02",
+        "ALT0"
+      ]
+    ],
+    "USDHC1_DATA1": [
+      [
+        "GPIO_SD_B0_03",
+        "ALT0"
+      ]
+    ],
+    "USDHC1_DATA2": [
+      [
+        "GPIO_SD_B0_04",
+        "ALT0"
+      ]
+    ],
+    "USDHC1_DATA3": [
+      [
+        "GPIO_SD_B0_05",
+        "ALT0"
+      ]
+    ],
+    "USDHC1_RESET_B": [
+      [
+        "GPIO_AD_B0_00",
+        "ALT6"
+      ],
+      [
+        "GPIO_B1_15",
+        "ALT6"
+      ],
+      [
+        "GPIO_EMC_33",
+        "ALT2"
+      ]
+    ],
+    "USDHC1_VSELECT": [
+      [
+        "GPIO_EMC_41",
+        "ALT6"
+      ],
+      [
+        "GPIO_AD_B1_01",
+        "ALT6"
+      ],
+      [
+        "GPIO_B1_14",
+        "ALT6"
+      ],
+      [
+        "GPIO_EMC_34",
+        "ALT2"
+      ]
+    ],
+    "USDHC1_WP": [
+      [
+        "GPIO_EMC_36",
+        "ALT6"
+      ],
+      [
+        "GPIO_AD_B1_00",
+        "ALT6"
+      ],
+      [
+        "GPIO_B1_13",
+        "ALT6"
+      ],
+      [
+        "GPIO_EMC_12",
+        "ALT3"
+      ]
+    ],
+    "USDHC1_CD_B": [
+      [
+        "GPIO_AD_B1_02",
+        "ALT6"
+      ],
+      [
+        "GPIO_EMC_35",
+        "ALT6"
+      ],
+      [
+        "GPIO_B1_12",
+        "ALT6"
+      ]
+    ]
+  },
+  "USDHC2": {
+    "USDHC2_CMD": [
+      [
+        "GPIO_AD_B1_08",
+        "ALT6"
+      ],
+      [
+        "GPIO_SD_B1_05",
+        "ALT0"
+      ]
+    ],
+    "USDHC2_CLK": [
+      [
+        "GPIO_AD_B1_09",
+        "ALT6"
+      ],
+      [
+        "GPIO_SD_B1_04",
+        "ALT0"
+      ]
+    ],
+    "USDHC2_DATA0": [
+      [
+        "GPIO_AD_B1_04",
+        "ALT6"
+      ],
+      [
+        "GPIO_SD_B1_03",
+        "ALT0"
+      ]
+    ],
+    "USDHC2_DATA1": [
+      [
+        "GPIO_AD_B1_05",
+        "ALT6"
+      ],
+      [
+        "GPIO_SD_B1_02",
+        "ALT0"
+      ]
+    ],
+    "USDHC2_DATA2": [
+      [
+        "GPIO_AD_B1_06",
+        "ALT6"
+      ],
+      [
+        "GPIO_SD_B1_01",
+        "ALT0"
+      ]
+    ],
+    "USDHC2_DATA3": [
+      [
+        "GPIO_AD_B1_07",
+        "ALT6"
+      ],
+      [
+        "GPIO_SD_B1_00",
+        "ALT0"
+      ]
+    ],
+    "USDHC2_DATA4": [
+      [
+        "GPIO_AD_B1_12",
+        "ALT6"
+      ],
+      [
+        "GPIO_SD_B1_08",
+        "ALT0"
+      ]
+    ],
+    "USDHC2_DATA5": [
+      [
+        "GPIO_AD_B1_13",
+        "ALT6"
+      ],
+      [
+        "GPIO_SD_B1_09",
+        "ALT0"
+      ]
+    ],
+    "USDHC2_DATA6": [
+      [
+        "GPIO_AD_B1_14",
+        "ALT6"
+      ],
+      [
+        "GPIO_SD_B1_10",
+        "ALT0"
+      ]
+    ],
+    "USDHC2_DATA7": [
+      [
+        "GPIO_AD_B1_15",
+        "ALT6"
+      ],
+      [
+        "GPIO_SD_B1_11",
+        "ALT0"
+      ]
+    ],
+    "USDHC2_RESET_B": [
+      [
+        "GPIO_AD_B1_11",
+        "ALT6"
+      ],
+      [
+        "GPIO_EMC_40",
+        "ALT6"
+      ],
+      [
+        "GPIO_EMC_11",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B1_06",
+        "ALT0"
+      ]
+    ],
+    "USDHC2_WP": [
+      [
+        "GPIO_AD_B1_10",
+        "ALT6"
+      ],
+      [
+        "GPIO_EMC_37",
+        "ALT6"
+      ]
+    ],
+    "USDHC2_VSELECT": [
+      [
+        "GPIO_EMC_38",
+        "ALT6"
+      ]
+    ],
+    "USDHC2_CD_B": [
+      [
+        "GPIO_AD_B1_03",
+        "ALT6"
+      ],
+      [
+        "GPIO_EMC_39",
+        "ALT6"
+      ]
+    ]
+  },
+  "WDOG1": {
+    "WDOG1_B": [
+      [
+        "GPIO_B1_13",
+        "ALT0"
+      ],
+      [
+        "GPIO_AD_B1_10",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_39",
+        "ALT4"
+      ],
+      [
+        "GPIO_AD_B0_11",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B1_00",
+        "ALT4"
+      ]
+    ],
+    "WDOG1_RESET_B_DEB": [
+      [
+        "GPIO_AD_B0_15",
+        "ALT7"
+      ]
+    ],
+    "WDOG1_ANY": [
+      [
+        "GPIO_AD_B0_14",
+        "ALT7"
+      ]
+    ]
+  },
+  "WDOG2": {
+    "WDOG2_B": [
+      [
+        "GPIO_AD_B0_12",
+        "ALT3"
+      ]
+    ],
+    "WDOG2_RESET_B_DEB": [
+      [
+        "GPIO_B0_03",
+        "ALT6"
+      ]
+    ]
+  },
+  "XBAR1": {
+    "XBAR_INOUT02": [
+      [
+        "GPIO_EMC_00",
+        "ALT3"
+      ],
+      [
+        "GPIO_B1_14",
+        "ALT3"
+      ]
+    ],
+    "XBAR_INOUT03": [
+      [
+        "GPIO_EMC_01",
+        "ALT3"
+      ],
+      [
+        "GPIO_B1_15",
+        "ALT3"
+      ]
+    ],
+    "XBAR_INOUT04": [
+      [
+        "GPIO_SD_B0_00",
+        "ALT3"
+      ],
+      [
+        "GPIO_EMC_02",
+        "ALT3"
+      ]
+    ],
+    "XBAR_INOUT05": [
+      [
+        "GPIO_EMC_03",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B0_01",
+        "ALT3"
+      ]
+    ],
+    "XBAR_INOUT06": [
+      [
+        "GPIO_SD_B0_02",
+        "ALT3"
+      ],
+      [
+        "GPIO_EMC_04",
+        "ALT3"
+      ]
+    ],
+    "XBAR_INOUT07": [
+      [
+        "GPIO_EMC_05",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B0_03",
+        "ALT3"
+      ]
+    ],
+    "XBAR_INOUT08": [
+      [
+        "GPIO_SD_B0_04",
+        "ALT3"
+      ],
+      [
+        "GPIO_EMC_06",
+        "ALT3"
+      ]
+    ],
+    "XBAR_INOUT09": [
+      [
+        "GPIO_EMC_07",
+        "ALT3"
+      ],
+      [
+        "GPIO_SD_B0_05",
+        "ALT3"
+      ]
+    ],
+    "XBAR_INOUT10": [
+      [
+        "GPIO_B0_12",
+        "ALT1"
+      ]
+    ],
+    "XBAR_INOUT11": [
+      [
+        "GPIO_B0_13",
+        "ALT1"
+      ]
+    ],
+    "XBAR_INOUT12": [
+      [
+        "GPIO_B0_14",
+        "ALT1"
+      ]
+    ],
+    "XBAR_INOUT13": [
+      [
+        "GPIO_B0_15",
+        "ALT1"
+      ]
+    ],
+    "XBAR_INOUT14": [
+      [
+        "GPIO_B1_00",
+        "ALT1"
+      ],
+      [
+        "GPIO_AD_B0_00",
+        "ALT1"
+      ]
+    ],
+    "XBAR_INOUT15": [
+      [
+        "GPIO_AD_B0_01",
+        "ALT1"
+      ],
+      [
+        "GPIO_B1_01",
+        "ALT1"
+      ]
+    ],
+    "XBAR_INOUT16": [
+      [
+        "GPIO_B1_02",
+        "ALT1"
+      ],
+      [
+        "GPIO_AD_B0_02",
+        "ALT1"
+      ]
+    ],
+    "XBAR_INOUT17": [
+      [
+        "GPIO_AD_B0_03",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_08",
+        "ALT3"
+      ],
+      [
+        "GPIO_AD_B0_05",
+        "ALT6"
+      ],
+      [
+        "GPIO_B1_03",
+        "ALT1"
+      ]
+    ],
+    "XBAR_INOUT18": [
+      [
+        "GPIO_EMC_35",
+        "ALT1"
+      ],
+      [
+        "GPIO_AD_B0_06",
+        "ALT6"
+      ]
+    ],
+    "XBAR_INOUT19": [
+      [
+        "GPIO_EMC_14",
+        "ALT1"
+      ],
+      [
+        "GPIO_AD_B0_07",
+        "ALT6"
+      ]
+    ],
+    "XBAR_INOUT20": [
+      [
+        "GPIO_AD_B0_08",
+        "ALT6"
+      ],
+      [
+        "GPIO_EMC_15",
+        "ALT1"
+      ]
+    ],
+    "XBAR_INOUT21": [
+      [
+        "GPIO_EMC_16",
+        "ALT1"
+      ],
+      [
+        "GPIO_AD_B0_09",
+        "ALT6"
+      ]
+    ],
+    "XBAR_INOUT22": [
+      [
+        "GPIO_AD_B0_10",
+        "ALT6"
+      ],
+      [
+        "GPIO_EMC_36",
+        "ALT1"
+      ]
+    ],
+    "XBAR_INOUT23": [
+      [
+        "GPIO_EMC_37",
+        "ALT1"
+      ],
+      [
+        "GPIO_AD_B0_11",
+        "ALT6"
+      ]
+    ],
+    "XBAR_INOUT24": [
+      [
+        "GPIO_AD_B0_14",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_12",
+        "ALT1"
+      ]
+    ],
+    "XBAR_INOUT25": [
+      [
+        "GPIO_AD_B0_15",
+        "ALT1"
+      ],
+      [
+        "GPIO_EMC_13",
+        "ALT1"
+      ]
+    ]
+  },
+  "XTALOSC": {
+    "REF_CLK_32K": [
+      [
+        "GPIO_AD_B0_00",
+        "ALT2"
+      ]
+    ],
+    "REF_CLK_24M": [
+      [
+        "GPIO_AD_B0_01",
+        "ALT2"
+      ],
+      [
+        "GPIO_AD_B0_03",
+        "ALT6"
+      ],
+      [
+        "GPIO_AD_B0_13",
+        "ALT7"
+      ]
+    ],
+    "XTALI": [
+      [
+        "XTALI",
+        "No Muxing"
+      ]
+    ],
+    "XTALO": [
+      [
+        "XTALO",
+        "No Muxing"
+      ]
+    ]
+  }
+}

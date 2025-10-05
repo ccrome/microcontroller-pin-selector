@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>i.MX RT1062 Pin Selector</title>
+  <link rel="stylesheet" href="assets/styles.css">
+  <meta name="robots" content="noindex" />
+</head>
+<body>
+  <header>
+    <h1>i.MX RT1062 Pin Selector</h1>
+    <div class="toolbar">
+      <select id="boardSelect" title="Select board (optional)"></select>
+      <select id="cpuSelect" title="Select CPU"></select>
+      <button id="btnClear" title="Clear all selections">Clear selections</button>
+    </div>
+  </header>
+  <div class="container">
+    <aside class="sidebar">
+      <div class="section">
+        <label for="instanceSelect">Instance</label>
+        <select id="instanceSelect" disabled></select>
+      </div>
+
+      <div class="section">
+        <label>Export</label>
+        <div class="toolbar">
+          <button id="btnCopy">Copy summary</button>
+          <button id="btnDownload">Download selection JSON</button>
+          <button id="btnDownloadCsv">Download CSV</button>
+        </div>
+        <div class="row" style="margin-top:8px;">
+          <input id="csvUpload" type="file" accept=".csv,text/csv" />
+        </div>
+        <div id="csvMsg" class="help"></div>
+        <div class="help">Summary includes selected pad/mode per port for the active instance.</div>
+      </div>
+
+      <div class="section">
+        <label>Legend</label>
+        <div class="help">ALTx = mux mode; pad is physical signal name, e.g. GPIO_AD_B1_03.</div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <div id="portsContainer"></div>
+      <div class="summary">
+        <div><span class="pill">Selection summary</span></div>
+        <table id="summaryTable" class="summary-table">
+          <thead>
+            <tr>
+              <th>Instance</th>
+              <th>Port</th>
+              <th>Pad</th>
+              <th>Mode</th>
+              <th>Teensy 4.1 Pin</th>
+            </tr>
+          </thead>
+          <tbody id="summaryTbody">
+            <tr><td colspan="5" class="help">No selection.</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="summary" style="margin-top:12px;">
+        <div><span class="pill">All selected pins (across instances)</span></div>
+        <table id="usedPinsTable" class="summary-table">
+          <thead>
+            <tr>
+              <th>Instance</th>
+              <th>Port</th>
+              <th>Pad</th>
+              <th>Mode</th>
+              <th>Teensy 4.1 Pin</th>
+            </tr>
+          </thead>
+          <tbody id="usedPinsTbody">
+            <tr><td colspan="5" class="help">No pins selected.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </main>
+  </div>
+  <div class="footer">Self-contained UI. No external deps. Works offline.</div>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
+
+

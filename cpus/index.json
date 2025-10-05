@@ -1,0 +1,7 @@
+{
+  "cpus": [
+    { "id": "i.mxrt1062", "name": "NXP i.MX RT1062", "file": "cpus/i.mxrt1062.pins.json" }
+  ]
+}
+
+

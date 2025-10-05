@@ -1,0 +1,6 @@
+{
+  "files": [
+      "boards/teensy4.1.json",
+      "boards/teensy4.0.json"
+  ]
+}
