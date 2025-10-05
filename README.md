@@ -1,5 +1,7 @@
 ## Microcontroller Pin Selector
 
+Use it online: https://ccrome.github.io/microcontroller-pin-selector/
+
 A lightweight, static web app for exploring MCU peripheral-to-pad mux options and planning board pin assignments. Works on any static host (including GitHub Pages) and offline.
 
 ### What it does
@@ -9,8 +11,8 @@ A lightweight, static web app for exploring MCU peripheral-to-pad mux options an
 - Persists selections and hardware choice in localStorage
 
 ### Getting started
-1. Serve the repository root with any static server (or publish it with GitHub Pages).
-2. Open `index.html` in a browser.
+1. Visit the live site: https://ccrome.github.io/microcontroller-pin-selector/
+2. Or serve the repository root with any static server and open `index.html`.
 3. Use the header controls to select a Board (optional) and/or CPU.
 
 ### Repository layout

@@ -36,6 +36,8 @@ button:hover { background: linear-gradient(135deg, rgba(34,211,238,.35), rgba(16
 pre { background: #0b1220; border: 1px solid #1f2937; padding: 10px; border-radius: 8px; overflow: auto; }
 .hidden { display: none; }
 .footer { padding: 12px 16px; border-top: 1px solid #1f2937; color: var(--muted); font-size: 12px; }
+.footer a { color: var(--accent); text-decoration: none; }
+.footer a:hover { text-decoration: underline; }
 .unavail-list { padding: 10px 12px; display: grid; gap: 6px; }
 .unavail-item { display: flex; align-items: center; justify-content: space-between; padding: 8px; border: 1px solid #1f2937; border-radius: 8px; background: #0b1220; }
 .combo.disabled { opacity: .5; pointer-events: none; }
